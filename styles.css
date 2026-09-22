@@ -1,0 +1,424 @@
+/* ==========================================================================
+   FOSS4CCCIs Portfolio
+   Visual language: Bold black text, a single blue accent (#3498db) for highlights,
+   and a clean, modern layout.
+   ========================================================================== */
+
+:root {
+  --background: #ffffff;
+  --surface: #ffffff;
+  --band: #f4f4f4;
+  --band-strong: #eaeaea;
+  --text: #000000;
+  --muted: #5a5a5a;
+  --line: #e2e2e2;
+  --accent: #3498db;
+  --accent-deep: #2980b9;
+  --radius: 0.25rem;
+  --bar: 0.34em;
+
+  color-scheme: light;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 20rem;
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-size: 1.125rem;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: var(--text);
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 0.16em;
+  text-underline-offset: 0.22em;
+}
+
+a:hover {
+  background: var(--accent);
+  text-decoration-thickness: 0.22em;
+}
+
+button, input, select {
+  color: inherit;
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 0.2rem solid var(--text);
+  outline-offset: 0.2rem;
+}
+
+.skip-link {
+  position: absolute;
+  z-index: 10;
+  top: 0.5rem;
+  left: 0.5rem;
+  padding: 0.65rem 0.9rem;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  transform: translateY(-150%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.shell {
+  width: min(100% - 3rem, 70rem);
+  margin-inline: auto;
+}
+
+.measure {
+  max-width: 68ch;
+}
+
+.mark {
+  padding-inline: 0.06em;
+  background-image: linear-gradient(to top, var(--accent) var(--bar), transparent var(--bar));
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.hex {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.hex__ring {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 7;
+  stroke-linejoin: round;
+}
+
+.hex-mark {
+  width: 1.75rem;
+  height: 1.75rem;
+  flex: none;
+}
+
+.site-header {
+  background: var(--surface);
+  box-shadow: 0 1px 0 var(--line);
+}
+
+.masthead {
+  display: flex;
+  min-height: 5.5rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.wordmark {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  gap: 0.65rem;
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.wordmark:hover .wordmark__text {
+  background: var(--accent);
+}
+
+.primary-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.primary-nav a {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.primary-nav a:hover {
+  background: transparent;
+  box-shadow: inset 0 -0.55rem 0 var(--accent);
+}
+
+.hero {
+  padding-block: clamp(4rem, 9vw, 7.5rem);
+}
+
+.eyebrow {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+h1, h2, h3, h4, p {
+  margin-top: 0;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.18;
+  text-wrap: balance;
+}
+
+h1 {
+  max-width: 20ch;
+  margin-bottom: 1.75rem;
+  font-size: clamp(2.4rem, 5.4vw, 4.2rem);
+  line-height: 1.34;
+}
+
+h2 {
+  margin-bottom: 1rem;
+  font-size: clamp(1.7rem, 3vw, 2.4rem);
+  line-height: 1.3;
+}
+
+.hero__intro {
+  max-width: 62ch;
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: clamp(1.1rem, 1.8vw, 1.3rem);
+}
+
+/* Catalog Controls (Search Bar) */
+.catalog-controls {
+  padding: 1.75rem;
+  border-radius: var(--radius);
+  background: var(--band);
+  margin-bottom: 2rem;
+}
+
+.control {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.control label {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.control input {
+  width: 100%;
+  min-height: 3rem;
+  padding: 0.6rem 0.8rem;
+  border: 0.125rem solid var(--text);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.control input:hover {
+  border-color: var(--accent-deep);
+}
+
+/* Catalog Layout: Sidebar + Results */
+.catalog-layout {
+  display: grid;
+  grid-template-columns: minmax(14rem, 17rem) minmax(0, 1fr);
+  align-items: start;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+
+/* Filter Panel (Left Sidebar) */
+.filter-panel {
+  border: 0;
+}
+
+.filter-panel > summary {
+  cursor: pointer;
+  font-weight: 700;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.25rem solid var(--accent);
+}
+
+.filter-groups {
+  display: grid;
+  gap: 2.5rem;
+  margin-top: 1rem;
+}
+
+.filter-group {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.filter-options {
+  display: grid;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.filter-option {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.filter-option input {
+  width: 1.2rem;
+  height: 1.2rem;
+  margin: 0;
+  accent-color: var(--text);
+}
+
+.filter-option label {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  cursor: pointer;
+}
+
+/* Results Section */
+.results-header {
+  display: flex;
+  min-height: 2.5rem;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 0.25rem solid var(--text);
+  margin-bottom: 1.5rem;
+}
+
+.results-header h2 {
+  margin-bottom: 0;
+}
+
+.results-count {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* Tools List */
+.tools-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.tool-card {
+  border: 1px solid var(--line);
+  padding: 1.2rem;
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.tool-card h3 {
+  margin: 0 0 0.8rem;
+  color: var(--text);
+  font-size: 1.2rem;
+}
+
+.tool-card p {
+  margin: 0.5rem 0;
+  color: var(--muted);
+}
+
+.tool-card strong {
+  color: var(--text);
+}
+
+.tool-card a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.tool-card a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+.site-footer {
+  background: var(--band);
+  box-shadow: inset 0 0.3rem 0 var(--accent);
+  margin-top: 3rem;
+}
+
+.footer-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(15rem, 1fr);
+  gap: 3rem;
+  padding-block: 3.5rem;
+  font-size: 0.95rem;
+}
+
+.footer-layout p {
+  max-width: 68ch;
+  margin-bottom: 0.65rem;
+}
+
+.footer-layout p:last-child {
+  margin-bottom: 0;
+}
+
+.footer-note {
+  color: var(--muted);
+}
+
+.footer-note a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.footer-note a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .masthead {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .primary-nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .catalog-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .filter-panel > summary {
+    display: none;
+  }
+}
