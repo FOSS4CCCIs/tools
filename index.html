@@ -53,11 +53,52 @@
       <!-- Catalog Layout: Sidebar + Results -->
       <div class="catalog-layout shell">
         <aside class="filter-panel">
+          <!-- Category Filter (Expanded by default) -->
           <details open>
             <summary>Category</summary>
             <div class="filter-groups">
               <div class="filter-group">
                 <div id="category-filters" class="filter-options"></div>
+              </div>
+            </div>
+          </details>
+
+          <!-- Ease of Use Filter (Expanded by default) -->
+          <details open>
+            <summary>Ease of Use</summary>
+            <div class="filter-groups">
+              <div class="filter-group">
+                <div id="ease-of-use-filters" class="filter-options"></div>
+              </div>
+            </div>
+          </details>
+
+          <!-- GitHub Stars Filter (Expanded by default) -->
+          <details open>
+            <summary>GitHub Stars</summary>
+            <div class="filter-groups">
+              <div class="filter-group">
+                <div id="github-stars-filters" class="filter-options"></div>
+              </div>
+            </div>
+          </details>
+
+          <!-- License Filter (Expanded by default) -->
+          <details open>
+            <summary>License</summary>
+            <div class="filter-groups">
+              <div class="filter-group">
+                <div id="license-filters" class="filter-options"></div>
+              </div>
+            </div>
+          </details>
+
+          <!-- Types Filter (Collapsed by default) -->
+          <details>
+            <summary>Types</summary>
+            <div class="filter-groups">
+              <div class="filter-group">
+                <div id="types-filters" class="filter-options"></div>
               </div>
             </div>
           </details>
