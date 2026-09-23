@@ -153,6 +153,7 @@ button, input, select {
   margin: 0;
   padding: 0;
   list-style: none;
+  position: relative;
 }
 
 .primary-nav a {
@@ -168,6 +169,45 @@ button, input, select {
 .primary-nav a:hover {
   background: transparent;
   box-shadow: inset 0 -0.55rem 0 var(--accent);
+}
+
+/* Dropdown Menu for Categories */
+.dropdown-container {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: var(--surface);
+  min-width: 200px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: var(--radius);
+  padding: 0.5rem 0;
+  display: none;
+  z-index: 10;
+  list-style: none;
+  margin: 0;
+}
+
+.dropdown-container:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  padding: 0.5rem 1rem;
+}
+
+.dropdown-menu li:hover {
+  background: var(--band);
+}
+
+.dropdown-menu a {
+  display: block;
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
 }
 
 .hero {
@@ -229,6 +269,10 @@ h2 {
   height: fit-content;
 }
 
+.filter-panel > details {
+  margin-bottom: 1rem;
+}
+
 .filter-panel > summary {
   cursor: pointer;
   font-weight: 700;
@@ -238,8 +282,8 @@ h2 {
 
 .filter-groups {
   display: grid;
-  gap: 2.5rem;
-  margin-top: 1rem;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .filter-group {
@@ -465,6 +509,18 @@ h2 {
   .primary-nav ul {
     flex-direction: column;
     gap: 0.5rem;
+  }
+
+  .dropdown-menu {
+    position: static;
+    display: none;
+    box-shadow: none;
+    padding: 0;
+    margin-left: 1rem;
+  }
+
+  .dropdown-container:hover .dropdown-menu {
+    display: block;
   }
 
   .catalog-layout {

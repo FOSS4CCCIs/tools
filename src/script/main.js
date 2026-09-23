@@ -63,7 +63,16 @@ async function loadTools() {
     const searchInput = document.getElementById('search');
     searchInput.addEventListener('input', applyFilters);
 
-    // Display all tools initially
+    // Pre-select the category filter if the page is for a specific category
+    const pageCategory = document.body.getAttribute('data-category');
+    if (pageCategory) {
+      const categoryRadio = document.querySelector(`input[name="category"][value="${pageCategory}"]`);
+      if (categoryRadio) {
+        categoryRadio.checked = true;
+      }
+    }
+
+    // Display tools initially (filtered by page category if applicable)
     applyFilters();
   } catch (error) {
     console.error('Error loading tools:', error);
@@ -79,7 +88,7 @@ function populateFilter(elementId, options, filterKey, allLabel) {
   const allOption = document.createElement('label');
   allOption.className = 'filter-option';
   allOption.innerHTML = `
-    <input type="radio" name="${filterKey}" value="${allLabel}" checked>
+    <input type="radio" name="${filterKey}" value="${allLabel}" ${!document.body.hasAttribute('data-category') ? 'checked' : ''}>
     <span>${allLabel}</span>
   `;
   allOption.querySelector('input').onchange = applyFilters;
@@ -91,7 +100,7 @@ function populateFilter(elementId, options, filterKey, allLabel) {
       const optionElement = document.createElement('label');
       optionElement.className = 'filter-option';
       optionElement.innerHTML = `
-        <input type="radio" name="${filterKey}" value="${option}">
+        <input type="radio" name="${filterKey}" value="${option}" ${document.body.getAttribute('data-category') === option ? 'checked' : ''}>
         <span>${option}</span>
       `;
       optionElement.querySelector('input').onchange = applyFilters;
