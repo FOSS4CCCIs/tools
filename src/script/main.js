@@ -275,3 +275,40 @@ function displayTools(tools) {
 
 // Load tools when the page loads
 window.onload = loadTools;
+
+
+// ------------------------------------------------------------------
+// "Edit this page" link
+// Derives the GitHub edit URL from the current page's path.
+// ------------------------------------------------------------------
+function addEditLink() {
+  const repo = 'FOSS4CCCIs/tools';
+  const branch = 'main';
+
+  // Get the current file path, e.g. "/tools/index.html" -> "index.html"
+  let path = window.location.pathname;
+
+  // Normalize: strip leading slashes and any subdirectory prefix
+  // caused by project-page hosting (e.g. "/tools/").
+  path = path.replace(/^\/+/, '');                 // leading slashes
+  path = path.replace(/^tools\//, '');             // repo-name prefix (if any)
+  path = path.replace(/\/+$/, '');                 // trailing slashes
+  if (path === '' || path.endsWith('/')) {
+    path += 'index.html';                          // directory URLs -> index.html
+  }
+
+  const editUrl = `https://github.com/${repo}/edit/${branch}/${path}`;
+
+  // Insert the link into the footer, before the closing </div> of footer-layout
+  const footerNote = document.querySelector('.site-footer .footer-layout > div');
+  if (footerNote) {
+    const editParagraph = document.createElement('p');
+    editParagraph.className = 'footer-note';
+    editParagraph.innerHTML = `<a href="${editUrl}">Edit this page on GitHub</a>`;
+    footerNote.appendChild(editParagraph);
+  }
+}
+
+// Run when the page loads
+window.addEventListener('load', addEditLink);
+
