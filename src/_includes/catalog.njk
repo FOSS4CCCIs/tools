@@ -1,0 +1,65 @@
+<section class="catalog-controls">
+  <div class="shell">
+    <div class="control">
+      <label for="search">Search Tools</label>
+      <input type="text" id="search" placeholder="Search by name or description...">
+    </div>
+  </div>
+</section>
+
+<div class="catalog-layout shell">
+  <aside class="filter-panel">
+    <details open>
+      <summary>Category</summary>
+      <div class="filter-groups">
+        <div class="filter-group">
+          <div id="category-filters" class="filter-options"></div>
+        </div>
+      </div>
+    </details>
+
+    <details open>
+      <summary>Ease of Use</summary>
+      <div class="filter-groups">
+        <div class="filter-group">
+          <div id="ease-of-use-filters" class="filter-options"></div>
+        </div>
+      </div>
+    </details>
+
+    <details open>
+      <summary>GitHub Stars</summary>
+      <div class="filter-groups">
+        <div class="filter-group">
+          <div id="github-stars-filters" class="filter-options"></div>
+        </div>
+      </div>
+    </details>
+
+    <details open>
+      <summary>License</summary>
+      <div class="filter-groups">
+        <div class="filter-group">
+          <div id="license-filters" class="filter-options"></div>
+        </div>
+      </div>
+    </details>
+
+    <details>
+      <summary>Types</summary>
+      <div class="filter-groups">
+        <div class="filter-group">
+          <div id="types-filters" class="filter-options"></div>
+        </div>
+      </div>
+    </details>
+  </aside>
+
+  <section id="tools" class="section">
+    <div class="results-header">
+      <h2>Tools</h2>
+      <p class="results-count" id="results-count">0 results</p>
+    </div>
+    <div id="tools-list" class="tools-list"></div>
+  </section>
+</div>

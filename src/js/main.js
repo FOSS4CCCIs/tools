@@ -4,7 +4,7 @@ let allTools = [];
 // Load tools when the page loads
 async function loadTools() {
   try {
-    const response = await fetch('res/var/data/tools.json');
+    const response = await fetch('data/tools.json');
     if (!response.ok) {
       throw new Error('Failed to load tools data');
     }
