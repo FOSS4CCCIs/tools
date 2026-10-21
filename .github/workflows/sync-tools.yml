@@ -1,0 +1,77 @@
+name: Sync tools.json from Grist
+
+# Rebuilds src/data/tools.json from the FOSS4CCCIs Grist document, then
+# builds and publishes the site in one run (a push made with GITHUB_TOKEN
+# deliberately does not re-trigger deploy.yml, so this workflow deploys
+# itself). If nothing changed in Grist, the build and deploy are skipped.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # every day at 06:00 UTC
+  workflow_dispatch: {}       # "Run workflow" button in the Actions tab
+  repository_dispatch:
+    types: [grist-update]     # optional: call from a Grist webhook for near-instant updates
+
+permissions:
+  contents: write            # push the refreshed tools.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync-tools
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.data.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Fetch tools from Grist (refreshes GitHub stars)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/fetch-tools.mjs
+
+      - name: Commit updated tools.json
+        id: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/tools.json
+          if git diff --cached --quiet; then
+            echo "No changes — Grist and the site are in sync."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(data): sync tools.json from Grist"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.data.outputs.changed == 'true'
+        run: npm ci
+
+      - if: steps.data.outputs.changed == 'true'
+        run: npm run build
+
+      - if: steps.data.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
