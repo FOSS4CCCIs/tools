@@ -48,3 +48,14 @@ The catalogue is organised around five operational pillars of a sustainable CCCI
 ## Further reading
 
 If you are just starting out, pair this catalogue with the [Community Network Readiness Assessment Handbook](https://www.internetsociety.org/resources/doc/2022/community-network-readiness-assessment-handbook/) and the [APC Community Networks Learning Space](https://cnlearning.apc.org/). The [Resources](resources.html) page collects guides, communities, funding sources, and research.
+
+
+## Contributions
+
+Contributions to this resource are welcome!
+
+PRs and Issues can be created here: https://github.com/FOSS4CCCIs/tools
+
+## About
+
+This project is sponsored by Internet Society. internetsociety.org
