@@ -13,7 +13,6 @@ This page collects the resources behind this catalogue: the handbooks and course
 
 ## Learning and guides
 
-![Learning resources reaching the classroom](https://images.unsplash.com/photo-1473649085228-583485e6e4d7?auto=format&fit=crop&w=1200&q=70)
 
 **Foundations**
 
