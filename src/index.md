@@ -12,7 +12,7 @@ Billions of people remain offline. Community-centred connectivity initiatives (C
 
 Good intentions and a strong tower are not enough. To deliver reliable, affordable connectivity, an initiative must also monitor its network, collect payments, keep honest accounts, care for its users, and stay on good terms with its regulator. This portfolio is a curated catalogue of free and open-source (FOSS) tools — currently 258 entries — that help CCCIs professionalise these operations without proprietary licence fees. It is written for community network builders, operators, and the organisations that support them, particularly in Global Majority regions where budgets, bandwidth, and technical staff are often scarce.
 
-![Community members installing network equipment together](img/home-hero.jpg)
+![A rooftop antenna keeping a community connected](https://images.unsplash.com/photo-1554977642-e557d4ca82d4?auto=format&fit=crop&w=1200&q=70)
 
 ## Why open source?
 
@@ -21,6 +21,8 @@ Good intentions and a strong tower are not enough. To deliver reliable, affordab
 - **Offline-friendly.** Many of these tools run on low-power hardware (a Raspberry Pi, a recycled PC) and tolerate intermittent connectivity.
 - **Community support.** Mature FOSS projects ship with documentation, forums, and global communities that help newcomers.
 - **Sovereignty.** Communities can inspect, localise, and adapt the software — no vendor lock-in.
+
+![Open-source code on a developer's screen](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=70)
 
 ## The five categories
 
@@ -40,6 +42,8 @@ The catalogue is organised around five operational pillars of a sustainable CCCI
 - **Start small.** A spreadsheet and a WhatsApp group are legitimate first steps. Adopt heavier platforms only when the community and the revenue justify them.
 - **Learn from peers.** Each category page summarises what other initiatives — Zenzeleni, TandaNET, PamojaNet, Guifi.net, Rhizomatica, and others — actually use, with links to the case studies.
 - **Contribute.** The data behind this site lives in the [FOSS4CCCIs database](https://data.communitynetworks.group/trjYNKuki62E/FOSS4CCCIs-All-Tools-and-Platforms-v15). Corrections and additions are welcome via the "Edit this page on GitHub" link in the footer.
+
+![Children learning with laptops in a classroom](https://images.unsplash.com/photo-1536337005238-94b997371b40?auto=format&fit=crop&w=1200&q=70)
 
 ## Further reading
 

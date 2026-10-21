@@ -11,7 +11,7 @@ In much of the Global Majority, **cash is still king** and mobile money — M-Pe
 
 The goal of this category is customer service: **let people pay for connectivity the way they already pay for everything else.** ([Self-sustaining Financing Solutions for Community Connectivity — DC3](https://comconnectivity.org/self-sustaining-financing-solutions-for-community-connectivity/))
 
-![A shopkeeper accepting a mobile money payment](img/payments-hero.jpg)
+![A busy market where cash and mobile money meet](https://images.unsplash.com/photo-1552710307-8d1c604d6319?auto=format&fit=crop&w=1200&q=70)
 
 ## Meet users where they already pay
 
@@ -45,7 +45,7 @@ Direct API integrations with mobile network operators give instant, low-friction
 | Latin America | Mercado Pago (Argentina, Brazil), Pix (Brazil), PicPay | Mercado Pago API, dLocal, Stripe for cross-border |
 | Cross-region | — | Flutterwave and dLocal cover 10–30+ countries each |
 
-![A mobile money agent helping a customer transfer funds](img/mobile-money-agent.jpg)
+![Paying with a phone at a local shop](https://images.unsplash.com/photo-1509017174183-0b7e0278f1ec?auto=format&fit=crop&w=1200&q=70)
 
 Useful aggregators and gateways: [Flutterwave](https://developer.flutterwave.com/), [Paystack](https://paystack.com/docs) (Nigeria, Ghana, South Africa, Kenya), [PesaPal](https://www.pesapal.com/) (East Africa), [Kopo Kopo](https://kopokopo.co.ke/) (Kenya), [dLocal](https://dlocal.com/) (LATAM/Asia/Africa), and [Stripe](https://stripe.com/) for international/donor payments. Open-source payment hubs such as **Mojaloop** and protocols like **Beckn** can enable interoperable local payment rails for larger initiatives.
 
@@ -91,6 +91,8 @@ Payments are also an opportunity to deepen financial inclusion:
 - **Agent networks** that both collect payments and offer basic financial services — they create local jobs.
 - **Community savings groups** that pool resources for connectivity and reduce default rates.
 - **Subsidised access** for schools and clinics, funded by cross-subsidisation or grants — plan it deliberately rather than ad hoc.
+
+![Coins set aside for community savings](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=1200&q=70)
 
 ## Suggested roadmap
 

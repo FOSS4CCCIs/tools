@@ -11,7 +11,7 @@ CCCIs rarely live on user fees alone. Most blend **user fees, grants, donations,
 
 Software is no substitute for accounting expertise — but the right platforms make the job possible for volunteer-run organisations, and produce the transparent reports that funders and communities both demand.
 
-![A treasurer reviewing the network's accounts with community members](img/money-hero.jpg)
+![The books open on a quiet desk, ready for review](https://images.unsplash.com/photo-1707779491435-000c45820db2?auto=format&fit=crop&w=1200&q=70)
 
 ## Blended finance: the funding stack of a CCCI
 
@@ -47,6 +47,8 @@ Two rules of thumb from the research: diversify income so no single funder's exi
 - Recruit a treasurer early, provide basic training for volunteers, and standardise invoice and receipt templates.
 - Where affordable, engage a local accountant — many work pro bono for community organisations (e.g. via [AfID](https://www.afid.org.uk/)).
 
+![Keeping the books with simple tools](https://images.unsplash.com/photo-1648201637025-1c77b9be3013?auto=format&fit=crop&w=1200&q=70)
+
 ## Budgeting for irregular income
 
 - **Rolling forecasts** — re-forecast monthly or quarterly, because grant delays and seasonal payments will break an annual plan.
@@ -68,7 +70,7 @@ Two rules of thumb from the research: diversify income so no single funder's exi
 
 ## Funding sources worth knowing
 
-![A community savings group meeting](img/community-finance.jpg)
+![A community group meeting to plan together](https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=1200&q=70)
 
 - **[Internet Society grants](https://www.internetsociety.org/grants/)** and [chapter programmes](https://www.internetsociety.org/) — community networks and digital inclusion
 - **[APC subgrants](https://www.apc.org/)** — community networks with a rights and social-justice focus

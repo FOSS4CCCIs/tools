@@ -9,9 +9,11 @@ intro: The guides, communities, funders, and research that community network bui
 
 This page collects the resources behind this catalogue: the handbooks and courses that teach the foundations, the communities where practitioners help each other, the funders who back community connectivity, and the research that documents what works — especially in Global Majority contexts.
 
-![A shelf of community media and network training materials](img/resources-hero.jpg)
+![Shelves of guides and reference books](https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1200&q=70)
 
 ## Learning and guides
+
+![Learning resources reaching the classroom](https://images.unsplash.com/photo-1473649085228-583485e6e4d7?auto=format&fit=crop&w=1200&q=70)
 
 **Foundations**
 

@@ -17,11 +17,13 @@ Good network management for a CCCI balances five goals:
 - **Scalability** — growth without proportional increases in cost or complexity.
 - **Participatory governance** — documentation and decisions the community can actually join.
 
-![Technician configuring community network equipment](img/network-management-hero.jpg)
+![A community server room kept tidy and monitored](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=70)
 
 ## Monitoring and alerting
 
 Proactive monitoring prevents outages, speeds up troubleshooting, and gives you the historical data you need for capacity planning. Start small: one monitoring tool on a low-cost server, alerting to a WhatsApp or SMS group, beats an elaborate stack nobody maintains.
+
+![A community-built cell tower linking nearby villages](https://images.unsplash.com/photo-1602823284936-463177448097?auto=format&fit=crop&w=1200&q=70)
 
 | Tool | What it does | Notes for CCCIs |
 |------|--------------|----------------|
@@ -52,6 +54,8 @@ Every device you add without records becomes future downtime. IP address managem
 | OpenAudIT | Automated network discovery and inventory auditing | Discovers devices and tracks configurations, low bandwidth friendly |
 | Netdoc | ISP-focused inventory and documentation platform | Designed for small operators |
 | RackTables | Datacentre/server-room asset tracking | Good for the "back office" rack of a growing CCCI |
+
+![A rack of servers documenting and powering the network](https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?auto=format&fit=crop&w=1200&q=70)
 
 Keep documentation in a wiki (**DokuWiki**, **Wiki.js**, **BookStack**) hosted on your own server, with offline copies for volunteers without connectivity. Label hardware physically (QR codes linked to your inventory work well) and involve users in asset tracking.
 
@@ -126,7 +130,7 @@ Hardware must be affordable, locally available, durable, and energy-efficient. W
 | Power | Solar panels + deep-cycle batteries, PoE injectors — essential for off-grid sites | $50–500 |
 | Protection | Lightning arrestors and surge protectors — cheap insurance in tropical regions | $10–100 |
 
-![Volunteers assembling a solar-powered network node](img/network-hardware.jpg)
+![Solar panels powering off-grid network equipment](https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1200&q=70)
 
 Buy from local vendors where possible (easier returns and spares), design for solar where the grid is unreliable, and always budget for surge protection on outdoor runs ([Wireless Networking in the Developing World](https://wndw.net/)).
 

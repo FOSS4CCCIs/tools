@@ -11,7 +11,7 @@ In community networks, users are not just customers — they are stakeholders. W
 
 > "Ensuring community participation is one of the most important strategies for the long term success of a community network." — [Community Network Readiness Assessment Handbook](https://www.internetsociety.org/resources/doc/2022/community-network-readiness-assessment-handbook/)
 
-![A community support volunteer helping a neighbour](img/community-hero.jpg)
+![A community workshop where everyone has a role](https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1200&q=70)
 
 ## Customer service that builds trust
 
@@ -58,7 +58,7 @@ Feedback only works if it is easy to give, and only counts if it visibly changes
 | Suggestion boxes (physical and digital) | Anonymous input from quieter members |
 | Public roadmap or noticeboard | Showing what changed *because* of feedback |
 
-![A community meeting where members discuss the network](img/community-meeting.jpg)
+![A community meeting where members discuss the network](https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=1200&q=70)
 
 Keep surveys under five minutes, translate them, and report back: "You asked for faster evening speeds — we upgraded the backhaul."
 
@@ -68,6 +68,8 @@ Keep surveys under five minutes, translate them, and report back: "You asked for
 - Create **short video tutorials** for setup, payments, and common fixes — host locally (MediaCMS/PeerTube) to avoid data costs.
 - Cultivate **super users**: tech-savvy members who handle first-line fixes, freeing volunteers for harder problems.
 - Use remote access (WireGuard, SSH) for routine troubleshooting; schedule on-site visits for hardware work and relationship-building.
+
+![A volunteer learning new tech skills at their own pace](https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1200&q=70)
 
 ## Transparency: SLAs, dashboards, and open books
 

@@ -11,7 +11,7 @@ intro: Operating legally is the price of admission — and a constructive regula
 
 Compliance is not just a legal obligation — it is strategy. Non-compliance risks fines, shutdown, and confiscated equipment, and disqualifies you from grants and investment. Compliance, by contrast, opens doors: spectrum access, universal service funds, partnerships, and a seat at the policy table. The challenge is that rules are usually written for large commercial ISPs, so CCCIs must navigate licensing fees, spectrum scarcity, and data protection regimes with small budgets and no legal team ([Community-centred connectivity: a new paradigm](https://www.apc.org/en/blog/community-centred-connectivity-new-paradigm)).
 
-![A delegation from a community network meeting with the telecom regulator](img/regulation-hero.jpg)
+![Meeting the regulator as partners, not adversaries](https://images.unsplash.com/photo-1758518730384-be3d205838e8?auto=format&fit=crop&w=1200&q=70)
 
 ## Licensing and spectrum
 
@@ -24,7 +24,7 @@ Compliance is not just a legal obligation — it is strategy. Non-compliance ris
 | Experimental / pilot licences | Temporary permission to test technology or a model | Varies | Useful for proof-of-concept phases |
 | Infrastructure permits | Towers, masts, trenching, wayleaves | Varies | Often municipal — plan for it before building |
 
-![A community-built tower and antenna against the sky](img/spectrum-tower.jpg)
+![A communication tower against a dramatic sky](https://images.unsplash.com/photo-1781085587586-f8e3dbf6bc7d?auto=format&fit=crop&w=1200&q=70)
 
 **Practices:**
 
@@ -36,6 +36,8 @@ Compliance is not just a legal obligation — it is strategy. Non-compliance ris
 ## Legal structure
 
 Your legal form determines what licences you can hold, what funding you can receive, and who is liable.
+
+![Signing the paperwork that formalises the network](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=70)
 
 | Structure | Best for | Watch out for |
 |-----------|----------|---------------|
