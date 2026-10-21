@@ -3,16 +3,16 @@ layout: base.njk
 eyebrow: Open-source tools and platforms
 title: Tools for Community Networks and Digital Infrastructure
 description: An open-source tools and platforms portfolio for community networks and digital infrastructure.
-intro: Free and open-source tools that help community-centred connectivity initiatives start up, operate professionally, and scale sustainably — with a focus on the Global Majority.
+intro: Free and open-source tools that help community-centred connectivity initiatives start up, operate professionally, and scale sustainably.
 ---
 
 ## Connectivity, run by and for the community
 
 Billions of people remain offline. Community-centred connectivity initiatives (CCCIs) — community networks, village ISPs, rural WISPs, and community media platforms — close that gap by building infrastructure that is owned, governed, and maintained by the people who use it.
 
-Good intentions and a strong tower are not enough. To deliver reliable, affordable connectivity, an initiative must also monitor its network, collect payments, keep honest accounts, care for its users, and stay on good terms with its regulator. This portfolio is a curated catalogue of free and open-source (FOSS) tools — currently 258 entries — that help CCCIs professionalise these operations without proprietary licence fees. It is written for community network builders, operators, and the organisations that support them, particularly in Global Majority regions where budgets, bandwidth, and technical staff are often scarce.
+Good intentions and a tall tower are not enough. To deliver reliable, affordable connectivity, an initiative must also monitor its network, collect payments, keep honest accounts, care for its users, and stay on good terms with its regulator. This portfolio is a curated catalogue of free and open-source (FOSS) (and some non-FOSS) tools — currently 258 entries — that help CCCIs professionalise these operations without proprietary licence fees. It is written for community network builders, operators, and the organisations that support them, particularly in Global Majority regions where budgets and bandwidth are sometimes scarce.
 
-![A rooftop antenna keeping a community connected](https://images.unsplash.com/photo-1554977642-e557d4ca82d4?auto=format&fit=crop&w=1200&q=70)
+![A rooftop antenna keeping a community connected](https://images.unsplash.com/photo-1679857768766-4c6a46db3301?q=80&w=3432&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
 
 ## Why open source?
 
@@ -39,11 +39,11 @@ The catalogue is organised around five operational pillars of a sustainable CCCI
 ## How to use the catalogue
 
 - **Browse and filter.** Head to the [Tools page](tools.html) and use the category, ease-of-use, licence, and type filters. Every tool is labelled Easy, Moderate, or Difficult for install and configuration effort.
-- **Start small.** A spreadsheet and a WhatsApp group are legitimate first steps. Adopt heavier platforms only when the community and the revenue justify them.
-- **Learn from peers.** Each category page summarises what other initiatives — Zenzeleni, TandaNET, PamojaNet, Guifi.net, Rhizomatica, and others — actually use, with links to the case studies.
+- **Start small.** A spreadsheet and a Signal group are legitimate first steps. Adopt heavier platforms only when the community and the revenue justify them.
+- **Learn from peers.** Each category page summarises what other initiatives — Zenzeleni, TandaNET, PamojaNet, Rhizomatica, and others — actually use, with links to the case studies.
 - **Contribute.** The data behind this site lives in the [FOSS4CCCIs database](https://docs.getgrist.com/8DBPFSG3ugAQ/FOSS4CCCIs-All-Tools-and-Platforms-v15-finalmergedtoolsplatformscsv-2026-06-1017-15). Corrections and additions are welcome via the "Edit this page on GitHub" link in the footer.
 
-![Children learning with laptops in a classroom](https://images.unsplash.com/photo-1536337005238-94b997371b40?auto=format&fit=crop&w=1200&q=70)
+![Children learning with laptops in a classroom](https://images.unsplash.com/photo-1626501244050-ad05a356bb27?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
 
 ## Further reading
 
