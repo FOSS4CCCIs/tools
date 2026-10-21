@@ -41,21 +41,10 @@ The catalogue is organised around five operational pillars of a sustainable CCCI
 - **Browse and filter.** Head to the [Tools page](tools.html) and use the category, ease-of-use, licence, and type filters. Every tool is labelled Easy, Moderate, or Difficult for install and configuration effort.
 - **Start small.** A spreadsheet and a WhatsApp group are legitimate first steps. Adopt heavier platforms only when the community and the revenue justify them.
 - **Learn from peers.** Each category page summarises what other initiatives — Zenzeleni, TandaNET, PamojaNet, Guifi.net, Rhizomatica, and others — actually use, with links to the case studies.
-- **Contribute.** The data behind this site lives in the [FOSS4CCCIs database](https://data.communitynetworks.group/trjYNKuki62E/FOSS4CCCIs-All-Tools-and-Platforms-v15). Corrections and additions are welcome via the "Edit this page on GitHub" link in the footer.
+- **Contribute.** The data behind this site lives in the [FOSS4CCCIs database](https://docs.getgrist.com/8DBPFSG3ugAQ/FOSS4CCCIs-All-Tools-and-Platforms-v15-finalmergedtoolsplatformscsv-2026-06-1017-15). Corrections and additions are welcome via the "Edit this page on GitHub" link in the footer.
 
 ![Children learning with laptops in a classroom](https://images.unsplash.com/photo-1536337005238-94b997371b40?auto=format&fit=crop&w=1200&q=70)
 
 ## Further reading
 
 If you are just starting out, pair this catalogue with the [Community Network Readiness Assessment Handbook](https://www.internetsociety.org/resources/doc/2022/community-network-readiness-assessment-handbook/) and the [APC Community Networks Learning Space](https://cnlearning.apc.org/). The [Resources](resources.html) page collects guides, communities, funding sources, and research.
-
-
-## Contributions
-
-Contributions to this resource are welcome!
-
-PRs and Issues can be created here: https://github.com/FOSS4CCCIs/tools
-
-## About
-
-This project is sponsored by Internet Society. internetsociety.org

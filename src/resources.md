@@ -13,6 +13,8 @@ This page collects the resources behind this catalogue: the handbooks and course
 
 ## Learning and guides
 
+![Learning resources reaching the classroom](https://images.unsplash.com/photo-1473649085228-583485e6e4d7?auto=format&fit=crop&w=1200&q=70)
+
 **Foundations**
 
 - [Community Network Readiness Assessment Handbook (Internet Society)](https://www.internetsociety.org/resources/doc/2022/community-network-readiness-assessment-handbook/) — assess whether your community is ready, then plan and build. Includes concept and techno-economic templates.
@@ -54,14 +56,14 @@ This page collects the resources behind this catalogue: the handbooks and course
 
 ## Data and tools behind this site
 
-- [FOSS4CCCIs database](https://data.communitynetworks.group/trjYNKuki62E/FOSS4CCCIs-All-Tools-and-Platforms-v15) — the live dataset of tools and platforms, with licences, owners, ease-of-use ratings, links, and alternatives.
+- [FOSS4CCCIs database](https://docs.getgrist.com/8DBPFSG3ugAQ/FOSS4CCCIs-All-Tools-and-Platforms-v15-finalmergedtoolsplatformscsv-2026-06-1017-15) — the live dataset of tools and platforms, with licences, owners, ease-of-use ratings, links, and alternatives.
 - This site's [source repository](https://github.com/FOSS4CCCIs/tools) — the site is built with Eleventy; corrections and additions are welcome.
 
 ## Contribute
 
 Know a tool this catalogue is missing, or spot something out of date? The database and this site are community-maintained:
 
-1. Open the [database](https://data.communitynetworks.group/trjYNKuki62E/FOSS4CCCIs-All-Tools-and-Platforms-v15) or the [site repository](https://github.com/FOSS4CCCIs/tools).
+1. Open the [database](https://docs.getgrist.com/8DBPFSG3ugAQ/FOSS4CCCIs-All-Tools-and-Platforms-v15-finalmergedtoolsplatformscsv-2026-06-1017-15) or the [site repository](https://github.com/FOSS4CCCIs/tools).
 2. Propose the addition or correction (a pull request, or a message to the team).
 3. When suggesting a tool, include: name, what it does, licence, owner/project, ease of use, and links to website, docs, and code.
 
