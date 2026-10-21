@@ -35,7 +35,7 @@ This page collects the resources behind this catalogue: the handbooks and course
 - [APC Local Networks initiative (LocNet)](https://www.apc.org/en/projects/local-networks-locnet) — publications, peer exchanges, and subgrants for community networks, with a strong Global South focus.
 - [Internet Society chapters](https://www.internetsociety.org/chapters/) — local chapters run trainings, grants programmes, and policy engagement in dozens of countries.
 - [Community Networks Learning Space forum](https://cnlearning.apc.org/) — the community around APC's courses.
-- Tool-specific forums (OpenWrt forum, LibreNMS community, OpenWISP users, Zabbix community) — most tools in this catalogue have active, welcoming support channels; links are on each tool's entry in the [catalogue](index.html).
+- Tool-specific forums (OpenWrt forum, LibreNMS community, OpenWISP users, Zabbix community) — most tools in this catalogue have active, welcoming support channels; links are on each tool's entry in the [catalogue](tools.html).
 
 ## Funding and finance
 

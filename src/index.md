@@ -4,7 +4,6 @@ eyebrow: Open-source tools and platforms
 title: Tools for Community Networks and Digital Infrastructure
 description: An open-source tools and platforms portfolio for community networks and digital infrastructure.
 intro: Free and open-source tools that help community-centred connectivity initiatives start up, operate professionally, and scale sustainably — with a focus on the Global Majority.
-showCatalog: true
 ---
 
 ## Connectivity, run by and for the community
@@ -33,9 +32,11 @@ The catalogue is organised around five operational pillars of a sustainable CCCI
 4. **[Managing community](managing-community.html)** — customer service, user tracking, feedback, and fair governance: the trust work that keeps a community network alive.
 5. **[Regulatory compliance](regulatory-compliance.html)** — licensing, spectrum, data protection, tax, and advocacy for a constructive relationship with the regulator.
 
+**[→ Browse and filter all 258 tools](tools.html)**
+
 ## How to use the catalogue
 
-- **Browse and filter.** Use the category, ease-of-use, licence, and type filters above. Every tool is labelled Easy, Moderate, or Difficult for install and configuration effort.
+- **Browse and filter.** Head to the [Tools page](tools.html) and use the category, ease-of-use, licence, and type filters. Every tool is labelled Easy, Moderate, or Difficult for install and configuration effort.
 - **Start small.** A spreadsheet and a WhatsApp group are legitimate first steps. Adopt heavier platforms only when the community and the revenue justify them.
 - **Learn from peers.** Each category page summarises what other initiatives — Zenzeleni, TandaNET, PamojaNet, Guifi.net, Rhizomatica, and others — actually use, with links to the case studies.
 - **Contribute.** The data behind this site lives in the [FOSS4CCCIs database](https://data.communitynetworks.group/trjYNKuki62E/FOSS4CCCIs-All-Tools-and-Platforms-v15). Corrections and additions are welcome via the "Edit this page on GitHub" link in the footer.
