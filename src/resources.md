@@ -13,8 +13,6 @@ This page collects the resources behind this catalogue: the handbooks and course
 
 ## Learning and guides
 
-![Learning resources reaching the classroom](https://images.unsplash.com/photo-1473649085228-583485e6e4d7?auto=format&fit=crop&w=1200&q=70)
-
 **Foundations**
 
 - [Community Network Readiness Assessment Handbook (Internet Society)](https://www.internetsociety.org/resources/doc/2022/community-network-readiness-assessment-handbook/) — assess whether your community is ready, then plan and build. Includes concept and techno-economic templates.
