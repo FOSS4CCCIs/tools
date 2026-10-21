@@ -87,7 +87,17 @@ button, input, select {
 }
 
 .measure {
-  max-width: 68ch;
+  max-width: 50rem;
+}
+
+/* Content images: kept smaller than the text column, centred, framed */
+.section img {
+  display: block;
+  width: min(34rem, 100%);
+  height: auto;
+  margin: 2.25rem auto;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
 }
 
 .mark {
