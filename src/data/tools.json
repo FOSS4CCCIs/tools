@@ -1,7 +1,9 @@
 [
   {
     "name": "Admidio",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Admidio is an open-source user management system for websites of organizations and groups. It has a flexible role model that allows you to reflect the structure and permissions of your organization.",
     "license": "GPL",
     "license_version": "2.0",
@@ -10,15 +12,17 @@
     "website": "https://www.admidio.org",
     "docs": "https://www.admidio.org/dokumentation",
     "code": "https://github.com/admidio/admidio",
-    "github_stars": 482,
-    "github_last_update": "2026-10-21",
+    "github_stars": 484,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "User Management, HRM"
   },
   {
     "name": "Agregore",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Agregore is a peer-to-peer web browser supporting multiple DWeb protocols (IPFS, Hypercore, BitTorrent, Gemini), enabling browsing and hosting of decentralised web content.",
     "license": "MIT",
     "license_version": "0.0",
@@ -46,7 +50,7 @@
     "website": "https://akaunting.com",
     "docs": "https://akaunting.com/docs",
     "code": "https://github.com/akaunting/akaunting",
-    "github_stars": 10200,
+    "github_stars": 10201,
     "github_last_update": "2026-10-08",
     "alternatives": "",
     "notes": "",
@@ -84,15 +88,17 @@
     "website": "https://ansible.com",
     "docs": "https://docs.ansible.com/",
     "code": "https://github.com/ansible/ansible",
-    "github_stars": 71046,
-    "github_last_update": "2026-10-21",
+    "github_stars": 71054,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Automation, Provisioning, Configuration Management"
   },
   {
     "name": "AnythingLLM",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "AnythingLLM is an all-in-one desktop and Docker AI application with built-in Retrieval-Augmented Generation (RAG), AI agents, a no-code agent builder, and MCP compatibility. It is designed for easy deployment and management of LLM applications.",
     "license": "MIT",
     "license_version": "0.0",
@@ -101,8 +107,8 @@
     "website": "https://useanything.com",
     "docs": "https://docs.useanything.com/",
     "code": "https://github.com/Mintplex-Labs/anything-llm",
-    "github_stars": 67401,
-    "github_last_update": "2026-10-21",
+    "github_stars": 67431,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "AI, LLM, RAG"
@@ -120,7 +126,7 @@
     "website": "https://github.com/Art-of-WiFi/UniFi-API-client",
     "docs": "https://github.com/Art-of-WiFi/UniFi-API-client",
     "code": "https://github.com/Art-of-WiFi/UniFi-API-client",
-    "github_stars": 1350,
+    "github_stars": 1349,
     "github_last_update": "2026-10-17",
     "alternatives": "",
     "notes": "",
@@ -128,7 +134,9 @@
   },
   {
     "name": "Audiopedia",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Audiopedia provides audio content for women in developing countries, funded by the Smart Development Fund (BMZ/GIZ). Accessible via mobile without literacy requirements.",
     "license": "Open",
     "license_version": "0.0",
@@ -145,7 +153,9 @@
   },
   {
     "name": "Authelia",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Authelia is an open-source Single Sign-On (SSO) and Multi-Factor Authentication (MFA) portal for web applications. It provides secure access to multiple services with a single set of credentials.",
     "license": "Apache",
     "license_version": "2.0",
@@ -154,15 +164,17 @@
     "website": "https://www.authelia.com",
     "docs": "https://www.authelia.com/docs/",
     "code": "https://github.com/authelia/authelia",
-    "github_stars": 29369,
-    "github_last_update": "2026-10-21",
+    "github_stars": 29374,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "SSO, Multi-Factor Authentication (MFA)"
   },
   {
     "name": "Authentik",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Authentik is a flexible identity provider that supports multiple protocols, including OAuth 2.0, SAML, LDAP, and Radius. It is designed to be easy to deploy and manage.",
     "license": "MIT",
     "license_version": "0.0",
@@ -171,11 +183,11 @@
     "website": "https://goauthentik.io",
     "docs": "https://goauthentik.io/docs/",
     "code": "https://github.com/goauthentik/authentik",
-    "github_stars": 26028,
-    "github_last_update": "2026-10-21",
+    "github_stars": 26041,
+    "github_last_update": "2026-10-22",
     "alternatives": "Keycloak; Authelia; Dex",
     "notes": "Recommended as a Keycloak alternative in community network circles.",
-    "types": "Mesh Networking, P2P, Communications, SSO, Identity Provider"
+    "types": "SSO, Identity Provider, Authentication"
   },
   {
     "name": "Auvik",
@@ -198,7 +210,9 @@
   },
   {
     "name": "AzuraCast",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "AzuraCast is a self-hosted web radio management suite including Icecast and SHOUTcast support, scheduling, and listener statistics. Used for community and online radio stations.",
     "license": "Apache",
     "license_version": "2.0",
@@ -208,7 +222,7 @@
     "docs": "https://docs.azuracast.com/",
     "code": "https://github.com/AzuraCast/AzuraCast",
     "github_stars": 4069,
-    "github_last_update": "2026-10-20",
+    "github_last_update": "2026-10-21",
     "alternatives": "LibreTime; Icecast; LiquidSoap",
     "notes": "",
     "types": "Radio, Broadcasting, Streaming, Media"
@@ -246,7 +260,7 @@
     "docs": "https://bind9.readthedocs.io/",
     "code": "https://github.com/isc-projects/bind9",
     "github_stars": 782,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "DNS Server, DNS Management"
@@ -272,7 +286,9 @@
   },
   {
     "name": "Berty",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Berty is a peer-to-peer, end-to-end encrypted messaging app that works without internet using BLE and mDNS, designed for censorship-resistant and off-grid communications.",
     "license": "Apache",
     "license_version": "2.0",
@@ -281,7 +297,7 @@
     "website": "https://berty.tech",
     "docs": "https://docs.berty.tech/",
     "code": "https://github.com/berty/berty",
-    "github_stars": 9335,
+    "github_stars": 9333,
     "github_last_update": "2026-10-21",
     "alternatives": "Briar; Meshtastic; Session",
     "notes": "",
@@ -289,7 +305,9 @@
   },
   {
     "name": "BigBlueButton",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "BigBlueButton is an open-source web conferencing system for online learning. It includes features for presentations, screen sharing, polling, and breakout rooms, widely used in education.",
     "license": "LGPL",
     "license_version": "3.0",
@@ -368,7 +386,9 @@
   },
   {
     "name": "Bitchat",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Bitchat is a decentralised peer-to-peer messaging app that works over Bluetooth mesh networks with no internet, servers, or phone numbers required.",
     "license": "MIT",
     "license_version": "0.0",
@@ -377,7 +397,7 @@
     "website": "https://bitchat.free/",
     "docs": "",
     "code": "https://github.com/permissionlesstech/bitchat",
-    "github_stars": 36665,
+    "github_stars": 36681,
     "github_last_update": "2026-10-18",
     "alternatives": "Briar; Meshtastic; Disaster.radio",
     "notes": "Available on iOS App Store; Bluetooth mesh only.",
@@ -385,7 +405,9 @@
   },
   {
     "name": "Bitwarden",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Bitwarden is an open-source password manager with self-hosting support (Vaultwarden). It offers browser extensions, mobile apps, and CLI for secure credential management.",
     "license": "GPL",
     "license_version": "3.0",
@@ -398,7 +420,7 @@
     "github_last_update": "",
     "alternatives": "KeePassXC; pass; 1Password",
     "notes": "",
-    "types": "Tunnelling, Remote Access"
+    "types": "Password Manager, Security"
   },
   {
     "name": "Bonfire",
@@ -421,7 +443,10 @@
   },
   {
     "name": "BookStack",
-    "category": [],
+    "category": [
+      "Managing Community",
+      "Network Management"
+    ],
     "description": "BookStack is an open-source, self-hosted knowledge management platform. It offers features for creating and managing documentation, making it suitable for ISPs and community networks.",
     "license": "MIT",
     "license_version": "0.0",
@@ -430,15 +455,17 @@
     "website": "https://bookstackapp.com",
     "docs": "https://www.bookstackapp.com/docs/",
     "code": "https://github.com/BookStackApp/BookStack",
-    "github_stars": 19092,
-    "github_last_update": "2026-10-21",
+    "github_stars": 19093,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Documentation, Knowledge Management"
   },
   {
     "name": "Briar",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Briar is a peer-to-peer encrypted messaging app that works over Bluetooth, WiFi, or Tor, enabling communication even without internet access. Designed for activists and at-risk communities.",
     "license": "GPL",
     "license_version": "3.0",
@@ -455,7 +482,9 @@
   },
   {
     "name": "CHATONS",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "CHATONS (Collective of Alternative Transparent Open Neutral Solidarity Hosters) is a French collective bringing together structures offering free, ethical, decentralised online services as alternatives to GAFAM.",
     "license": "Various",
     "license_version": "0.0",
@@ -472,7 +501,9 @@
   },
   {
     "name": "Cabal",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Cabal is a peer-to-peer, local-first group chat platform using the Cabal protocol. It features subjective moderation, allowing each user to define their own trust graph.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -508,7 +539,9 @@
   },
   {
     "name": "CasaOS",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "CasaOS is a simple, easy-to-use, and open-source home cloud system built on top of Docker. It provides a user-friendly app store for self-hosted services.",
     "license": "Apache",
     "license_version": "2.0",
@@ -517,7 +550,7 @@
     "website": "https://casaos.io/",
     "docs": "https://wiki.casaos.io/",
     "code": "https://github.com/IceWhaleTech/CasaOS",
-    "github_stars": 37346,
+    "github_stars": 37352,
     "github_last_update": "2026-09-28",
     "alternatives": "YunoHost; Umbrel; Coolify",
     "notes": "Notes test Editing works",
@@ -536,15 +569,17 @@
     "website": "https://checkmk.com/",
     "docs": "https://docs.checkmk.com/",
     "code": "https://github.com/Checkmk/checkmk",
-    "github_stars": 2607,
-    "github_last_update": "2026-10-21",
+    "github_stars": 2608,
+    "github_last_update": "2026-10-22",
     "alternatives": "Zabbix; LibreNMS; Prometheus",
     "notes": "Free for up to 25 nodes.",
     "types": "Mesh Networking, Emergency Comms, IoT"
   },
   {
     "name": "Chef",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Chef is an open-source automation platform that transforms infrastructure into code. It is used for configuration management, application deployment, and infrastructure automation.",
     "license": "Apache",
     "license_version": "2.0",
@@ -561,7 +596,9 @@
   },
   {
     "name": "CinemaCMS / Cinemata",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "CinemataCMS is the open-source video platform powering Cinemata.org, a secure video platform for advocacy content in the Asia-Pacific region developed by EngageMedia.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -571,14 +608,16 @@
     "docs": "",
     "code": "https://github.com/EngageMedia-video/cinematacms",
     "github_stars": 25,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "MediaCMS; PeerTube; Owncast",
     "notes": "Used by EngageMedia in Asia-Pacific.",
     "types": "Video Hosting, Media, Human Rights"
   },
   {
     "name": "Cloudron",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Cloudron is a platform for self-hosting web applications, providing one-click installation, automatic updates, backups, and SSL certificate management.",
     "license": "Custom (paid tier for commercial use)",
     "license_version": "0.0",
@@ -595,7 +634,9 @@
   },
   {
     "name": "Codeberg",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Codeberg is a free, non-profit, community-led code hosting platform based in Berlin, providing Git hosting and services for free and open-source software projects.",
     "license": "MIT (Forgejo)",
     "license_version": "0.0",
@@ -643,14 +684,16 @@
     "docs": "https://docs.consuldemocracy.org/",
     "code": "https://github.com/consul/consul",
     "github_stars": 1554,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Decidim; Vocdoni; Loomio",
     "notes": "",
     "types": "Governance, Participatory Democracy"
   },
   {
     "name": "Coolify",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Coolify is a self-hosted alternative to Heroku and Netlify, enabling easy deployment of applications, databases, and services on your own infrastructure with a modern UI.",
     "license": "Apache",
     "license_version": "2.0",
@@ -659,8 +702,8 @@
     "website": "https://coolify.io/",
     "docs": "https://coolify.io/docs/",
     "code": "https://github.com/coollabsio/coolify",
-    "github_stars": 63345,
-    "github_last_update": "2026-10-21",
+    "github_stars": 63411,
+    "github_last_update": "2026-10-22",
     "alternatives": "YunoHost; Caprover; Cloudron",
     "notes": "",
     "types": "Self-Hosting, Server Management, DevOps"
@@ -678,7 +721,7 @@
     "website": "https://coredns.io/",
     "docs": "https://coredns.io/manual/toc/",
     "code": "https://github.com/coredns/coredns",
-    "github_stars": 14391,
+    "github_stars": 14393,
     "github_last_update": "2026-10-21",
     "alternatives": "",
     "notes": "",
@@ -686,7 +729,9 @@
   },
   {
     "name": "Cozy",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Cozy is a personal cloud platform written in JavaScript enabling users to host their own data and applications, with an easy development environment for building personal apps.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -715,7 +760,7 @@
     "website": "https://craterapp.com",
     "docs": "https://docs.craterapp.com/",
     "code": "https://github.com/crater-invoice/crater",
-    "github_stars": 8355,
+    "github_stars": 8353,
     "github_last_update": "2024-08-10",
     "alternatives": "",
     "notes": "",
@@ -734,15 +779,17 @@
     "website": "https://www.crowdsec.net/",
     "docs": "https://doc.crowdsec.net/",
     "code": "https://github.com/crowdsecurity/crowdsec",
-    "github_stars": 15241,
-    "github_last_update": "2026-10-21",
+    "github_stars": 15254,
+    "github_last_update": "2026-10-22",
     "alternatives": "Fail2ban; HAProxy; ModSecurity",
     "notes": "",
     "types": "Cellular Networks, Core Network"
   },
   {
     "name": "CryptPad",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "CryptPad is an end-to-end encrypted, zero-knowledge collaboration suite offering documents, spreadsheets, presentations, whiteboards, and kanban boards with no account required.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -752,14 +799,16 @@
     "docs": "https://docs.cryptpad.fr/",
     "code": "https://github.com/xwiki-labs/cryptpad",
     "github_stars": 8022,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Nextcloud; OnlyOffice; Etherpad",
     "notes": "",
     "types": "Productivity, Collaboration, Privacy, Office"
   },
   {
     "name": "Cyberduck",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows supporting FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Azure, OneDrive, Google Drive, and Dropbox.",
     "license": "GPL",
     "license_version": "3.0",
@@ -768,8 +817,8 @@
     "website": "https://cyberduck.io/",
     "docs": "https://docs.cyberduck.io/",
     "code": "https://github.com/iterate-ch/cyberduck",
-    "github_stars": 4868,
-    "github_last_update": "2026-10-21",
+    "github_stars": 4870,
+    "github_last_update": "2026-10-22",
     "alternatives": "FileZilla; WinSCP; Transmit",
     "notes": "",
     "types": "File Storage, Cloud Client"
@@ -847,14 +896,16 @@
     "docs": "https://docs.decidim.org/",
     "code": "https://github.com/decidim/decidim",
     "github_stars": 1831,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Consul Democracy; Vocdoni; Loomio",
     "notes": "",
     "types": "Governance, Participatory Democracy, Community"
   },
   {
     "name": "Deflect",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Deflect is a free infrastructure service for non-profits and civil society organisations to protect their websites from DDoS attacks and AI bot traffic.",
     "license": "Open Source",
     "license_version": "0.0",
@@ -867,11 +918,13 @@
     "github_last_update": "",
     "alternatives": "Cloudflare; Project Shield; AWS Shield",
     "notes": "",
-    "types": "Communications, Messaging"
+    "types": "Security, DDoS Protection, Web Hosting"
   },
   {
     "name": "Delta Chat",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Delta Chat is a decentralised chat app that uses email infrastructure for message delivery. It supports webxdc mini-apps and works as a low-entry-point playground for exploring digital tools.",
     "license": "GPL",
     "license_version": "3.0",
@@ -880,15 +933,17 @@
     "website": "https://delta.chat/",
     "docs": "https://delta.chat/en/help",
     "code": "https://github.com/deltachat/deltachat-android",
-    "github_stars": 1842,
-    "github_last_update": "2026-10-21",
+    "github_stars": 1843,
+    "github_last_update": "2026-10-22",
     "alternatives": "Signal; Briar; Session",
     "notes": "Uses chatmail servers for low-latency delivery.",
     "types": "Communications, Messaging, Email"
   },
   {
     "name": "Diagrams.net (Draw.io)",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Diagrams.net (formerly Draw.io) is an open-source diagramming tool with a wide range of templates and shapes. It can be used online or self-hosted and integrates with various platforms.",
     "license": "Apache",
     "license_version": "2.0",
@@ -897,7 +952,7 @@
     "website": "https://app.diagrams.net",
     "docs": "https://about.draw.io/",
     "code": "https://github.com/jgraph/drawio",
-    "github_stars": 8910,
+    "github_stars": 8926,
     "github_last_update": "2026-10-18",
     "alternatives": "",
     "notes": "",
@@ -905,7 +960,9 @@
   },
   {
     "name": "DietPi",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "DietPi is a highly optimised minimal Debian-based Linux distribution for single-board computers and servers. It uses less CPU, RAM, and storage than standard OS installations.",
     "license": "GPL",
     "license_version": "2.0",
@@ -914,15 +971,17 @@
     "website": "https://dietpi.com/",
     "docs": "https://dietpi.com/docs/",
     "code": "https://github.com/MichaIng/DietPi",
-    "github_stars": 6341,
-    "github_last_update": "2026-10-21",
+    "github_stars": 6345,
+    "github_last_update": "2026-10-22",
     "alternatives": "Raspbian; Armbian; Ubuntu Server",
     "notes": "",
-    "types": "Communications, Social Media, XMPP"
+    "types": "Operating System, Self-Hosting, Server Management"
   },
   {
     "name": "Dino",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Dino is a modern, open-source XMPP/Jabber client for Linux desktops, supporting end-to-end encryption via OMEMO and a clean, modern interface.",
     "license": "GPL",
     "license_version": "3.0",
@@ -939,7 +998,9 @@
   },
   {
     "name": "Disroot",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Disroot is a privacy-respecting, decentralised online services platform based in Amsterdam, offering email, cloud storage, forums, and other federated services maintained by volunteers.",
     "license": "Various open-source",
     "license_version": "0.0",
@@ -956,7 +1017,9 @@
   },
   {
     "name": "Distributed Press",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Distributed Press is an open-source publishing tool for the World Wide Web and DWeb, automating publishing and hosting content to the WWW while seeding to Hypercore and IPFS.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -973,7 +1036,10 @@
   },
   {
     "name": "DokuWiki",
-    "category": [],
+    "category": [
+      "Managing Community",
+      "Network Management"
+    ],
     "description": "DokuWiki is an open-source wiki software that doesn't require a database. It is simple to use, highly customizable, and suitable for creating and managing documentation.",
     "license": "GPL",
     "license_version": "2.0",
@@ -982,7 +1048,7 @@
     "website": "https://www.dokuwiki.org/",
     "docs": "https://www.dokuwiki.org/wiki:dokuwiki",
     "code": "https://github.com/splitbrain/dokuwiki",
-    "github_stars": 4730,
+    "github_stars": 4731,
     "github_last_update": "2026-09-29",
     "alternatives": "",
     "notes": "",
@@ -1003,8 +1069,8 @@
     "website": "https://dolibarr.org",
     "docs": "https://wiki.dolibarr.org/",
     "code": "https://github.com/Dolibarr/dolibarr",
-    "github_stars": 7758,
-    "github_last_update": "2026-10-21",
+    "github_stars": 7760,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "ERP, CRM, Accounting, Inventory"
@@ -1023,15 +1089,17 @@
     "website": "https://erpnext.com",
     "docs": "https://docs.erpnext.com/",
     "code": "https://github.com/frappe/erpnext",
-    "github_stars": 40421,
-    "github_last_update": "2026-10-21",
+    "github_stars": 40449,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "ERP, Accounting, Inventory, HR, Project Management"
   },
   {
     "name": "Element / Matrix",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Element is the primary client for the Matrix open federated messaging protocol. Matrix enables decentralised, end-to-end encrypted communications via a network of interconnected servers.",
     "license": "Apache",
     "license_version": "2.0",
@@ -1048,7 +1116,9 @@
   },
   {
     "name": "EndlessOS",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Endless OS is a Linux distribution optimised for first-time computer users and offline tool access, developed for solar learning labs and communities without reliable internet.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1065,7 +1135,9 @@
   },
   {
     "name": "EpiCollect5",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Epicollect5 is a free, easy-to-use mobile data-gathering platform for building and managing data collection forms, used by community organisations and research projects.",
     "license": "CC BY-NC",
     "license_version": "0.0",
@@ -1082,7 +1154,9 @@
   },
   {
     "name": "Etherpad",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Etherpad is an open-source, real-time collaborative text editor that allows multiple users to edit a document simultaneously, with a change history for each session.",
     "license": "Apache",
     "license_version": "2.0",
@@ -1091,7 +1165,7 @@
     "website": "https://etherpad.org/",
     "docs": "https://etherpad.org/doc/",
     "code": "https://github.com/ether/etherpad-lite",
-    "github_stars": 18593,
+    "github_stars": 18594,
     "github_last_update": "2026-10-21",
     "alternatives": "HedgeDoc; CryptPad; Nextcloud",
     "notes": "",
@@ -1099,7 +1173,9 @@
   },
   {
     "name": "Excalidraw",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Excalidraw is an open-source virtual whiteboard for sketching hand-drawn style diagrams, widely used as an open-source alternative to Jamboard, Miro, and FigJam.",
     "license": "MIT",
     "license_version": "0.0",
@@ -1108,7 +1184,7 @@
     "website": "https://excalidraw.com/",
     "docs": "https://docs.excalidraw.com/",
     "code": "https://github.com/excalidraw/excalidraw",
-    "github_stars": 134322,
+    "github_stars": 134370,
     "github_last_update": "2026-10-21",
     "alternatives": "Miro; Drawio; FigJam",
     "notes": "",
@@ -1147,15 +1223,17 @@
     "website": "https://farmos.org/",
     "docs": "https://farmos.org/guide/",
     "code": "https://github.com/farmOS/farmOS",
-    "github_stars": 1375,
-    "github_last_update": "2026-10-19",
+    "github_stars": 1377,
+    "github_last_update": "2026-10-21",
     "alternatives": "Farmier; KoBoToolbox; EpiCollect5",
     "notes": "",
     "types": "Network Management, Billing, Captive Portal"
   },
   {
     "name": "FieldKit",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "FieldKit is open-source environmental monitoring hardware and software for scientists and communities to collect and share environmental data in the field.",
     "license": "MIT",
     "license_version": "0.0",
@@ -1191,7 +1269,9 @@
   },
   {
     "name": "Frappe HR",
-    "category": [],
+    "category": [
+      "Managing Money"
+    ],
     "description": "Frappe HR is an open-source HRMS solution with over 13 different modules, including employee management, onboarding, leaves, payroll, and taxation. It is built on the Frappe Framework.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1200,8 +1280,8 @@
     "website": "https://frappe.io/hrms",
     "docs": "https://docs.erpnext.com/docs/v13/user/manual/en/human-resources",
     "code": "https://github.com/frappe/hrms",
-    "github_stars": 8948,
-    "github_last_update": "2026-10-21",
+    "github_stars": 8950,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "HRM, Payroll, Employee Management"
@@ -1219,8 +1299,8 @@
     "website": "https://freeradius.org",
     "docs": "https://wiki.freeradius.org/",
     "code": "https://github.com/FreeRADIUS/freeradius-server",
-    "github_stars": 2619,
-    "github_last_update": "2026-10-21",
+    "github_stars": 2620,
+    "github_last_update": "2026-10-22",
     "alternatives": "Radiusdesk; PacketFence",
     "notes": "",
     "types": "RADIUS Server, Authentication, Authentication, Network Management"
@@ -1238,15 +1318,17 @@
     "website": "https://freescout.net/",
     "docs": "https://github.com/freescout-helpdesk/freescout/wiki",
     "code": "https://github.com/freescout-helpdesk/freescout",
-    "github_stars": 4607,
-    "github_last_update": "2026-10-21",
+    "github_stars": 4609,
+    "github_last_update": "2026-10-22",
     "alternatives": "osTicket; Helpy; Liberaforms",
     "notes": "",
     "types": "Email, Helpdesk, Customer Support"
   },
   {
     "name": "FreedomBox",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "FreedomBox is a Debian Pure Blend providing a personal server with free software for privacy and autonomy. Launched in 2010 by Prof. Eben Moglen to help users reclaim control of internet infrastructure.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1304,7 +1386,9 @@
   },
   {
     "name": "Funkwhale",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Funkwhale is a decentralised, federated audio streaming platform supporting music, podcasts, and radio. It uses the ActivityPub protocol to federate with the broader fediverse.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -1378,7 +1462,9 @@
   },
   {
     "name": "Gajim",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Gajim is a feature-rich XMPP/Jabber client for Linux and Windows with support for multi-user chat, file transfer, and OMEMO end-to-end encryption.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1395,7 +1481,9 @@
   },
   {
     "name": "Galene",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Galene is a self-hosted video conferencing server with low server resource requirements. It is used by NLnet Foundation for their community meetings.",
     "license": "MIT",
     "license_version": "0.0",
@@ -1412,7 +1500,9 @@
   },
   {
     "name": "Garage",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Garage is an open-source distributed object storage service compatible with the S3 API, specifically designed and optimised for self-hosting in small clusters.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -1448,7 +1538,9 @@
   },
   {
     "name": "GetSimple CMS",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "GetSimple is a simple, flat-file CMS designed for small websites. It has no database dependency and focuses on ease of use with GPL open-source licensing. Over 120,000 downloads.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1495,15 +1587,17 @@
     "website": "https://grafana.com",
     "docs": "https://grafana.com/docs/",
     "code": "https://github.com/grafana/grafana",
-    "github_stars": 77404,
-    "github_last_update": "2026-10-21",
+    "github_stars": 77423,
+    "github_last_update": "2026-10-22",
     "alternatives": "Kibana; Metabase; Redash, Kibana; Prometheus",
     "notes": "Used by Altermundi for mesh network performance dashboards.",
     "types": "Monitoring, Analytics, Mesh Networking, Routing Protocol"
   },
   {
     "name": "Grav",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Grav is a modern open-source flat-file CMS with no database required, focusing on simplicity and speed. Suitable for community network websites and documentation portals.",
     "license": "MIT",
     "license_version": "0.0",
@@ -1512,7 +1606,7 @@
     "website": "https://getgrav.org/",
     "docs": "https://learn.getgrav.org/",
     "code": "https://github.com/getgrav/grav",
-    "github_stars": 15691,
+    "github_stars": 15692,
     "github_last_update": "2026-10-20",
     "alternatives": "WordPress; GetSimple; Hugo",
     "notes": "",
@@ -1520,7 +1614,9 @@
   },
   {
     "name": "Grist",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Grist is an open-source modern spreadsheet combining the flexibility of a spreadsheet with the power of a database. An alternative to Google Sheets with self-hosting support.",
     "license": "Apache",
     "license_version": "2.0",
@@ -1529,8 +1625,8 @@
     "website": "https://www.getgrist.com/",
     "docs": "https://support.getgrist.com/",
     "code": "https://github.com/gristlabs/grist-core",
-    "github_stars": 11989,
-    "github_last_update": "2026-10-21",
+    "github_stars": 11986,
+    "github_last_update": "2026-10-22",
     "alternatives": "NocoDB; Airtable; Google Sheets",
     "notes": "",
     "types": "Database, Spreadsheet, Productivity"
@@ -1556,7 +1652,10 @@
   },
   {
     "name": "HedgeDoc",
-    "category": [],
+    "category": [
+      "Managing Community",
+      "Network Management"
+    ],
     "description": "HedgeDoc (formerly CodiMD) is a self-hostable, collaborative Markdown editor allowing teams to write, share, and collaborate on documents in real-time using Markdown syntax.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -1565,15 +1664,17 @@
     "website": "https://hedgedoc.org/",
     "docs": "https://docs.hedgedoc.org/",
     "code": "https://github.com/hedgedoc/hedgedoc",
-    "github_stars": 7488,
-    "github_last_update": "2026-10-21",
+    "github_stars": 7489,
+    "github_last_update": "2026-10-22",
     "alternatives": "Etherpad; CryptPad; Obsidian",
     "notes": "",
     "types": "Productivity, Collaboration, Markdown"
   },
   {
     "name": "Hetzner",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Hetzner provides cloud hosting, virtual private servers (VPS), and dedicated servers with high performance and reliability. It is widely used by ISPs, developers, and businesses for hosting applications and infrastructure.",
     "license": "Proprietary",
     "license_version": "0.0",
@@ -1623,7 +1724,7 @@
     "docs": "https://docs.humhub.com/",
     "code": "https://github.com/humhub/humhub",
     "github_stars": 6754,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Mastodon; Diaspora; Nextcloud Social",
     "notes": "",
     "types": "Social Media, Intranet, Community Platform"
@@ -1711,7 +1812,9 @@
   },
   {
     "name": "Icecast",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Icecast is an open-source streaming media server supporting Ogg Vorbis, MP3, AAC, and WebM audio/video streams. Widely used for community radio and audio streaming over local networks.",
     "license": "GPL",
     "license_version": "2.0",
@@ -1759,15 +1862,17 @@
     "website": "https://invoiceninja.com",
     "docs": "https://invoiceninja.github.io/",
     "code": "https://github.com/invoiceninja/invoiceninja",
-    "github_stars": 10311,
-    "github_last_update": "2026-10-20",
+    "github_stars": 10310,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Billing, Invoicing, Accounting"
   },
   {
     "name": "IronWiFi",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "IronWiFi is an authentication solution for WiFi networks.",
     "license": "Proprietary",
     "license_version": "0.0",
@@ -1784,7 +1889,9 @@
   },
   {
     "name": "Jitsi Meet",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Jitsi Meet is an open-source video conferencing platform that provides secure and scalable video meetings. It is widely used for remote collaboration and communication.",
     "license": "Apache",
     "license_version": "2.0",
@@ -1797,11 +1904,13 @@
     "github_last_update": "",
     "alternatives": "BigBlueButton; Galene; LiveKit",
     "notes": "",
-    "types": "Video Conferencing, Communications, Communication, Video Conferencing"
+    "types": "Video Conferencing, Communications, Self-Hosting"
   },
   {
     "name": "KeePassXC",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "KeePassXC is a modern, secure, offline password manager that stores credentials in an encrypted local database. Used with KeePassDX on mobile and synced via Nextcloud in community network orgs.",
     "license": "GPL",
     "license_version": "2.0",
@@ -1814,11 +1923,13 @@
     "github_last_update": "",
     "alternatives": "Bitwarden; pass; 1Password",
     "notes": "Used by Nodo TAU, synced via Nextcloud.",
-    "types": "Mesh Networking, P2P, VPN"
+    "types": "Password Manager, Security"
   },
   {
     "name": "Keycloak",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Keycloak is an open-source Identity and Access Management (IAM) solution. It provides SSO, identity brokering, and user federation, making it suitable for securing applications and services.",
     "license": "Apache",
     "license_version": "2.0",
@@ -1827,15 +1938,17 @@
     "website": "https://www.keycloak.org",
     "docs": "https://www.keycloak.org/documentation",
     "code": "https://github.com/keycloak/keycloak",
-    "github_stars": 37454,
-    "github_last_update": "2026-10-21",
+    "github_stars": 37467,
+    "github_last_update": "2026-10-22",
     "alternatives": "Authentik; Authelia; Dex",
     "notes": "Used by community networks for SSO across services.",
-    "types": "P2P, Mesh Networking, SSO, Identity and Access Management (IAM)"
+    "types": "SSO, Identity Provider, Identity and Access Management (IAM), Authentication"
   },
   {
     "name": "Kiwix",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Kiwix is an offline web browser enabling access to Wikipedia, Khan Academy, and thousands of other websites without internet connectivity, using ZIM file format.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1869,7 +1982,9 @@
   },
   {
     "name": "KoBoToolbox",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "KoBoToolbox is a free, open-source suite of tools for field data collection via mobile devices, used extensively in humanitarian, development, and research contexts.",
     "license": "BSD-2-Clause",
     "license_version": "0.0",
@@ -1886,7 +2001,9 @@
   },
   {
     "name": "Kolibri",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Kolibri is an offline learning platform by Learning Equality, delivering educational content to communities without reliable internet access through local network distribution.",
     "license": "MIT",
     "license_version": "0.0",
@@ -1896,14 +2013,16 @@
     "docs": "https://kolibri.readthedocs.io/",
     "code": "https://github.com/learningequality/kolibri",
     "github_stars": 1159,
-    "github_last_update": "2026-10-20",
+    "github_last_update": "2026-10-21",
     "alternatives": "Kiwix; Rachel; Moodle",
     "notes": "Used by Assorcom in Myanmar for offline learning.",
     "types": "Education, Offline Learning, LMS"
   },
   {
     "name": "Lemmy",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Lemmy is a federated link aggregator and Reddit clone for the fediverse. Communities can follow each other across instances using the ActivityPub protocol.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -1912,7 +2031,7 @@
     "website": "https://join-lemmy.org/",
     "docs": "https://join-lemmy.org/docs/",
     "code": "https://github.com/LemmyNet/lemmy",
-    "github_stars": 14639,
+    "github_stars": 14640,
     "github_last_update": "2026-10-21",
     "alternatives": "Kbin; Reddit; Mastodon",
     "notes": "",
@@ -1920,7 +2039,9 @@
   },
   {
     "name": "LibreMesh",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "LibreMesh is a modular framework for creating decentralized, community-owned mesh networks. It simplifies the deployment of mesh networks by providing pre-configured firmware for routers, enabling easy setup of self-organizing networks.",
     "license": "GPL",
     "license_version": "3.0",
@@ -1949,14 +2070,16 @@
     "docs": "https://docs.librenms.org/",
     "code": "https://github.com/librenms/librenms",
     "github_stars": 4966,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Zabbix; Observium",
     "notes": "",
     "types": "Monitoring, Network Management"
   },
   {
     "name": "LibreOffice",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "LibreOffice is a free and open-source office productivity suite including Writer (word processing), Calc (spreadsheets), Impress (presentations), and Draw (diagrams).",
     "license": "MPL",
     "license_version": "2.0",
@@ -2003,15 +2126,17 @@
     "website": "https://librespeed.org/",
     "docs": "https://github.com/librespeed/speedtest",
     "code": "https://github.com/librespeed/speedtest",
-    "github_stars": 15244,
-    "github_last_update": "2026-10-18",
+    "github_stars": 15249,
+    "github_last_update": "2026-10-22",
     "alternatives": "Fast.com; Speedtest.net; iPerf, Ookla Speedtest; Fast.com",
     "notes": "",
     "types": "Speed Test, Network Testing, Communications, Messaging, P2P"
   },
   {
     "name": "LibreTime",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "LibreTime is an open-source radio automation and broadcasting solution helping community radio stations get on air with scheduling, live assistance, and stream management.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -2021,7 +2146,7 @@
     "docs": "https://libretime.org/docs/",
     "code": "https://github.com/libretime/libretime",
     "github_stars": 937,
-    "github_last_update": "2026-10-20",
+    "github_last_update": "2026-10-22",
     "alternatives": "AzuraCast; Icecast; LiquidSoap",
     "notes": "Recommended by APC for community radio.",
     "types": "Radio, Broadcasting, Media"
@@ -2058,15 +2183,17 @@
     "website": "https://www.limesurvey.org/",
     "docs": "https://manual.limesurvey.org/",
     "code": "https://github.com/LimeSurvey/LimeSurvey",
-    "github_stars": 3771,
-    "github_last_update": "2026-10-21",
+    "github_stars": 3774,
+    "github_last_update": "2026-10-22",
     "alternatives": "KoBoToolbox; ODK; Epicollect5",
     "notes": "",
     "types": "Surveys, Data Collection"
   },
   {
     "name": "LiquidSoap",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "LiquidSoap is a powerful open-source audio and video streaming language used for creating dynamic radio streams, mixing audio sources, and scheduling broadcasts.",
     "license": "GPL",
     "license_version": "2.0",
@@ -2083,7 +2210,9 @@
   },
   {
     "name": "LiveKit",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "LiveKit is an open-source WebRTC infrastructure platform providing low-latency audio and video for applications. Being adopted by Matrix for conference calls.",
     "license": "Apache",
     "license_version": "2.0",
@@ -2117,7 +2246,9 @@
   },
   {
     "name": "Lokole",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Lokole is an offline email service for rural communities, students, and teachers. Using a 3G/4G modem, it batch-uploads and batch-downloads emails once per night at minimal cost.",
     "license": "MIT",
     "license_version": "0.0",
@@ -2155,7 +2286,9 @@
   },
   {
     "name": "Mailtrain",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Mailtrain is a self-hosted newsletter application built on Nodemailer, providing an open-source alternative to Mailchimp for sending newsletters from your own server.",
     "license": "GPL",
     "license_version": "1.0",
@@ -2164,7 +2297,7 @@
     "website": "https://mailtrain.org/",
     "docs": "",
     "code": "https://github.com/Mailtrain-org/mailtrain",
-    "github_stars": 5759,
+    "github_stars": 5757,
     "github_last_update": "2025-10-05",
     "alternatives": "Mailman; Sympa; Sendy; Listmonk",
     "notes": "Used by redecentralize.org.",
@@ -2172,7 +2305,9 @@
   },
   {
     "name": "Mastodon",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Mastodon is the most widely-used federated social network using the ActivityPub protocol. Self-hostable instances federate with the broader fediverse. Used as a Twitter/X alternative.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -2181,15 +2316,17 @@
     "website": "https://joinmastodon.org/",
     "docs": "https://docs.joinmastodon.org/",
     "code": "https://github.com/mastodon/mastodon",
-    "github_stars": 50427,
-    "github_last_update": "2026-10-21",
+    "github_stars": 50429,
+    "github_last_update": "2026-10-22",
     "alternatives": "Pleroma; Misskey; Akkoma",
     "notes": "Hometown is a notable fork keeping content local.",
     "types": "Social Media, Federated, Communications"
   },
   {
     "name": "Matomo",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Matomo is an open-source web analytics platform offering a privacy-respecting alternative to Google Analytics. User data stays on your own servers.",
     "license": "GPL",
     "license_version": "3.0",
@@ -2198,8 +2335,8 @@
     "website": "https://matomo.org/",
     "docs": "https://matomo.org/docs/",
     "code": "https://github.com/matomo-org/matomo",
-    "github_stars": 21965,
-    "github_last_update": "2026-10-21",
+    "github_stars": 21973,
+    "github_last_update": "2026-10-22",
     "alternatives": "Google Analytics; Plausible; Fathom",
     "notes": "Used by V-NET community network.",
     "types": "Analytics, Privacy, Web"
@@ -2244,7 +2381,9 @@
   },
   {
     "name": "MediaCMS",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "MediaCMS is an open-source, modern video and media platform for self-hosting, enabling communities to build a video service similar to YouTube on their own infrastructure.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -2253,15 +2392,17 @@
     "website": "https://mediacms.io/",
     "docs": "https://mediacms.io/documentation/",
     "code": "https://github.com/mediacms-io/mediacms",
-    "github_stars": 5161,
-    "github_last_update": "2026-10-21",
+    "github_stars": 5163,
+    "github_last_update": "2026-10-22",
     "alternatives": "PeerTube; Owncast; Cinemata",
     "notes": "",
     "types": "Video Hosting, Media, Self-Hosting"
   },
   {
     "name": "Mermaid",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Mermaid is an open-source JavaScript-based diagramming and charting tool. It uses a simple markup language to create diagrams and integrates with platforms like Grafana and documentation tools.",
     "license": "MIT",
     "license_version": "0.0",
@@ -2270,15 +2411,17 @@
     "website": "https://mermaid.js.org",
     "docs": "https://mermaid.js.org/intro/",
     "code": "https://github.com/mermaid-js/mermaid",
-    "github_stars": 90792,
-    "github_last_update": "2026-10-21",
+    "github_stars": 90814,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Diagramming, Visualization"
   },
   {
     "name": "Meshtastic",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Meshtastic is an open-source, off-grid, decentralized mesh network built on affordable LoRa radio hardware. It enables long-range text messaging without internet or cellular infrastructure.",
     "license": "GPL",
     "license_version": "3.0",
@@ -2421,7 +2564,7 @@
     "website": "https://movim.eu/",
     "docs": "https://github.com/movim/movim/wiki",
     "code": "https://github.com/movim/movim",
-    "github_stars": 2065,
+    "github_stars": 2066,
     "github_last_update": "2026-10-20",
     "alternatives": "Mastodon; Pleroma; Diaspora",
     "notes": "",
@@ -2498,15 +2641,17 @@
     "website": "https://netbox.dev",
     "docs": "",
     "code": "https://github.com/netbox-community/netbox",
-    "github_stars": 21740,
-    "github_last_update": "2026-10-21",
+    "github_stars": 21748,
+    "github_last_update": "2026-10-22",
     "alternatives": "phpIPAM; RackTables",
     "notes": "",
     "types": "IPAM, DCIM, Provisioning, Network Management"
   },
   {
     "name": "Netskrt",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Netskrt provides edge caching solutions for ISPs.",
     "license": "Proprietary",
     "license_version": "0.0",
@@ -2542,7 +2687,9 @@
   },
   {
     "name": "NocoDB",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "NocoDB is an open-source Airtable alternative that turns any database into a smart spreadsheet with API access. Used as a Google Sheets alternative in CCCI contexts.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -2551,15 +2698,17 @@
     "website": "https://www.nocodb.com/",
     "docs": "https://docs.nocodb.com/",
     "code": "https://github.com/nocodb/nocodb",
-    "github_stars": 65313,
-    "github_last_update": "2026-10-21",
+    "github_stars": 65323,
+    "github_last_update": "2026-10-22",
     "alternatives": "Airtable; Grist; Baserow",
     "notes": "",
     "types": "Database, No-Code, Productivity"
   },
   {
     "name": "Node-RED",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Node-RED is a flow-based development tool for visual programming, originally by IBM, for wiring together hardware devices, APIs, and online services as part of the Internet of Things.",
     "license": "Apache",
     "license_version": "2.0",
@@ -2568,7 +2717,7 @@
     "website": "https://nodered.org/",
     "docs": "https://nodered.org/docs/",
     "code": "https://github.com/node-red/node-red",
-    "github_stars": 23771,
+    "github_stars": 23774,
     "github_last_update": "2026-10-21",
     "alternatives": "Home Assistant; N8N; MQTT",
     "notes": "",
@@ -2576,7 +2725,9 @@
   },
   {
     "name": "Nostr",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Nostr is a simple, open protocol enabling a truly censorship-resistant and global social network. Users control their own keys and can connect to any relay.",
     "license": "Public Domain / MIT",
     "license_version": "0.0",
@@ -2585,7 +2736,7 @@
     "website": "https://nostr.com/",
     "docs": "https://github.com/nostr-protocol/nostr",
     "code": "https://github.com/nostr-protocol/nostr",
-    "github_stars": 12103,
+    "github_stars": 12106,
     "github_last_update": "2025-06-27",
     "alternatives": "Mastodon; Scuttlebutt; Bluesky",
     "notes": "Emerald is a notable Android client.",
@@ -2593,7 +2744,9 @@
   },
   {
     "name": "OBS Studio",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "OBS Studio is an open-source video recording and live-streaming application supporting multiple sources, scenes, and outputs. Used for recording BigBlueButton and Jitsi meetings.",
     "license": "GPL",
     "license_version": "2.0",
@@ -2602,7 +2755,7 @@
     "website": "https://obsproject.com/",
     "docs": "https://obsproject.com/wiki/",
     "code": "https://github.com/obsproject/obs-studio",
-    "github_stars": 77880,
+    "github_stars": 77919,
     "github_last_update": "2026-10-20",
     "alternatives": "Kazam; SimpleScreenRecorder; StreamYard",
     "notes": "",
@@ -2648,7 +2801,9 @@
   },
   {
     "name": "Ollama",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Ollama is an open-source tool for running large language models (LLMs) locally. It supports models like Llama 3.3, DeepSeek-R1, Phi-4, and Gemma 3, making it easy to deploy and manage AI models.",
     "license": "MIT",
     "license_version": "0.0",
@@ -2657,8 +2812,8 @@
     "website": "https://ollama.ai",
     "docs": "https://github.com/jmorganca/ollama/blob/main/README.md",
     "code": "https://github.com/jmorganca/ollama",
-    "github_stars": 184163,
-    "github_last_update": "2026-10-21",
+    "github_stars": 184265,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "LLM, AI Model Hosting"
@@ -2686,7 +2841,9 @@
   },
   {
     "name": "Open WebUI",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Open WebUI is a user-friendly AI interface that supports Ollama, OpenAI API, and other AI models. It provides a simple and intuitive way to interact with LLMs.",
     "license": "BSD-3-Clause",
     "license_version": "0.0",
@@ -2695,15 +2852,17 @@
     "website": "https://github.com/open-webui/open-webui",
     "docs": "https://github.com/open-webui/open-webui#readme",
     "code": "https://github.com/open-webui/open-webui",
-    "github_stars": 156354,
-    "github_last_update": "2026-10-21",
+    "github_stars": 156430,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "AI Interface, LLM"
   },
   {
     "name": "Open5GS",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Open5GS is a C-language open source implementation of 3GPP's Evolved Packet Core (EPC/5GC), providing the core network for LTE and 5G community cellular networks.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -2712,7 +2871,7 @@
     "website": "https://open5gs.org/open5gs/",
     "docs": "https://open5gs.org/open5gs/docs/",
     "code": "https://github.com/open5gs/open5gs",
-    "github_stars": 2784,
+    "github_stars": 2787,
     "github_last_update": "2026-10-21",
     "alternatives": "OpenBTS; Osmocom; Magma",
     "notes": "",
@@ -2758,7 +2917,9 @@
   },
   {
     "name": "OpenMediaVault",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "OpenMediaVault is an open-source network attached storage (NAS) solution based on Debian Linux, providing a web-based management interface for home and community server storage.",
     "license": "GPL",
     "license_version": "3.0",
@@ -2767,7 +2928,7 @@
     "website": "https://www.openmediavault.org/",
     "docs": "https://docs.openmediavault.org/",
     "code": "https://github.com/openmediavault/openmediavault",
-    "github_stars": 7014,
+    "github_stars": 7016,
     "github_last_update": "2026-10-20",
     "alternatives": "TrueNAS; Unraid; Nextcloud",
     "notes": "",
@@ -2787,14 +2948,16 @@
     "docs": "https://docs.opennms.com/start-page/1.0.0/index.html",
     "code": "https://github.com/OpenNMS/opennms",
     "github_stars": 1179,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Zabbix; Nagios",
     "notes": "Mostly defunct?",
     "types": "Monitoring, Network Management"
   },
   {
     "name": "OpenRefine",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "OpenRefine is a powerful open-source tool for working with messy data: cleaning it, transforming it from one format to another, and extending it with web services and external data.",
     "license": "BSD-3-Clause",
     "license_version": "0.0",
@@ -2803,7 +2966,7 @@
     "website": "https://openrefine.org/",
     "docs": "https://openrefine.org/docs",
     "code": "https://github.com/OpenRefine/OpenRefine",
-    "github_stars": 12047,
+    "github_stars": 12050,
     "github_last_update": "2026-10-19",
     "alternatives": "Pandas; Trifacta; DataWrangler",
     "notes": "",
@@ -2811,7 +2974,9 @@
   },
   {
     "name": "OpenStreetMap (OSM)",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "OpenStreetMap is a collaborative project to create a free editable map of the world. It is widely used by community networks and ISPs for mapping network infrastructure and coverage areas.",
     "license": "ODbL (Open Database License)",
     "license_version": "0.0",
@@ -2828,7 +2993,9 @@
   },
   {
     "name": "OpenTelemetry",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "OpenTelemetry is a vendor-neutral open-source observability framework providing APIs, libraries, and agents for collecting distributed traces, metrics, and logs.",
     "license": "Apache",
     "license_version": "2.0",
@@ -2841,11 +3008,13 @@
     "github_last_update": "",
     "alternatives": "Prometheus; Jaeger; Grafana",
     "notes": "",
-    "types": "Communications, Messaging, PrivacyNaN"
+    "types": "Observability, Monitoring, Telemetry"
   },
   {
     "name": "OpenVPN",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "OpenVPN is an open-source VPN solution that provides secure and private communication over the internet. It is widely used by ISPs and community networks to ensure secure connections.",
     "license": "GPL",
     "license_version": "2.0",
@@ -2892,8 +3061,8 @@
     "website": "https://openwrt.org",
     "docs": "https://openwrt.org/docs/start",
     "code": "https://github.com/openwrt/openwrt",
-    "github_stars": 28853,
-    "github_last_update": "2026-10-21",
+    "github_stars": 28872,
+    "github_last_update": "2026-10-22",
     "alternatives": "DD-WRT; LibreMesh",
     "notes": "",
     "types": "Firmware, Network Management"
@@ -2911,15 +3080,17 @@
     "website": "https://openwrt.org",
     "docs": "https://openwrt.org/docs/start",
     "code": "https://github.com/openwrt/openwrt",
-    "github_stars": 28853,
-    "github_last_update": "2026-10-21",
+    "github_stars": 28872,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Router Firmware, Network Management"
   },
   {
     "name": "OpenWrt (mesh tutorial)",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "OpenWISP provides tutorials and resources for deploying OpenWrt-based mesh networks, including step-by-step guides for community network deployments.",
     "license": "GPL",
     "license_version": "2.0",
@@ -2955,7 +3126,10 @@
   },
   {
     "name": "Outline",
-    "category": [],
+    "category": [
+      "Managing Community",
+      "Network Management"
+    ],
     "description": "Outline is a self-hostable knowledge base and wiki platform for teams, with a clean interface, Markdown support, and real-time collaboration features. An open-source Notion alternative.",
     "license": "BSL",
     "license_version": "1.1",
@@ -2964,15 +3138,17 @@
     "website": "https://www.getoutline.com/",
     "docs": "https://www.getoutline.com/developers",
     "code": "https://github.com/outline/outline",
-    "github_stars": 41006,
-    "github_last_update": "2026-10-21",
+    "github_stars": 41020,
+    "github_last_update": "2026-10-22",
     "alternatives": "Notion; Bookstack; Wiki.js",
     "notes": "",
     "types": "Productivity, Knowledge Management, Wiki"
   },
   {
     "name": "Owncast",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Owncast is a self-hosted, open-source, decentralised livestreaming platform that integrates with existing broadcast tools (OBS). Provides a tracking-free alternative to Twitch and YouTube Live.",
     "license": "MIT",
     "license_version": "0.0",
@@ -3019,8 +3195,8 @@
     "website": "https://github.com/ytti/oxidized",
     "docs": "https://github.com/ytti/oxidized/blob/master/README.md",
     "code": "https://github.com/ytti/oxidized",
-    "github_stars": 3619,
-    "github_last_update": "2026-10-21",
+    "github_stars": 3620,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Network Configuration Backup, Network Management"
@@ -3082,7 +3258,9 @@
   },
   {
     "name": "Pagekite",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Pagekite is a fast, open-source, reliable localhost tunnelling solution that makes local servers accessible from anywhere via a public URL.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3099,7 +3277,9 @@
   },
   {
     "name": "PeerTube",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "PeerTube is a decentralised, federated video hosting platform using ActivityPub and WebTorrent for peer-to-peer video delivery. An ethical alternative to YouTube.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3108,7 +3288,7 @@
     "website": "https://joinpeertube.org/",
     "docs": "https://docs.joinpeertube.org/",
     "code": "https://github.com/Chocobozzz/PeerTube",
-    "github_stars": 15362,
+    "github_stars": 15360,
     "github_last_update": "2026-10-16",
     "alternatives": "Owncast; MediaCMS; YouTube",
     "notes": "",
@@ -3116,7 +3296,9 @@
   },
   {
     "name": "Pi-hole",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Pi-hole is an open-source DNS sinkhole that protects your devices from unwanted content without installing client-side software. It also provides network-level ad blocking.",
     "license": "EUPL",
     "license_version": "1.2",
@@ -3125,7 +3307,7 @@
     "website": "https://pi-hole.net",
     "docs": "https://docs.pi-hole.net/",
     "code": "https://github.com/pi-hole/pi-hole",
-    "github_stars": 61371,
+    "github_stars": 61386,
     "github_last_update": "2026-10-20",
     "alternatives": "",
     "notes": "",
@@ -3133,7 +3315,9 @@
   },
   {
     "name": "Pixelfed",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Pixelfed is a federated, open-source photo sharing platform compatible with the ActivityPub protocol, offering an ethical alternative to Instagram.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3143,14 +3327,16 @@
     "docs": "https://docs.pixelfed.org/",
     "code": "https://github.com/pixelfed/pixelfed",
     "github_stars": 7126,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "Mastodon; Pleroma",
     "notes": "",
     "types": "Social Media, Federated, Photo Sharing"
   },
   {
     "name": "Pleroma",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Pleroma is a lightweight, ActivityPub-compatible federated social networking server. It has a significantly smaller resource footprint than Mastodon, making it suitable for low-resource community servers.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3167,7 +3353,9 @@
   },
   {
     "name": "PowerDNS",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "PowerDNS is an open-source DNS server that supports a variety of backends, including databases and load balancing. It is highly scalable and widely used for managing DNS infrastructure.",
     "license": "GPL",
     "license_version": "2.0",
@@ -3204,7 +3392,9 @@
   },
   {
     "name": "PreTalx",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "PreTalx is an open-source conference management tool supporting call-for-papers, scheduling, and speaker management. Used by FOSS4G and other open-source conferences.",
     "license": "Apache",
     "license_version": "2.0",
@@ -3251,15 +3441,17 @@
     "website": "https://prometheus.io",
     "docs": "https://prometheus.io/docs/introduction/overview/",
     "code": "https://github.com/prometheus/prometheus",
-    "github_stars": 66674,
-    "github_last_update": "2026-10-21",
+    "github_stars": 66698,
+    "github_last_update": "2026-10-22",
     "alternatives": "Zabbix; Nagios; Icinga; Checkmk, InfluxDB; Zabbix",
     "notes": "Used by BigBlueButton monitoring setups.",
     "types": "Bonding, Network Management, Firmware, Monitoring, Analytics, Network Management"
   },
   {
     "name": "Proxmox VE",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Proxmox Virtual Environment is an open-source server virtualisation management platform supporting KVM and LXC containers, commonly used in community network server infrastructure.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3272,11 +3464,13 @@
     "github_last_update": "",
     "alternatives": "VMware ESXi; Virtualbox; oVirt",
     "notes": "Used for hypervisor and server monitoring in community networks.",
-    "types": "Communications, Messaging, P2P"
+    "types": "Virtualization, Server Management, Self-Hosting"
   },
   {
     "name": "QGIS",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "QGIS is an open-source Geographic Information System (GIS) that allows users to create, edit, visualize, analyze, and publish geospatial information. It is useful for planning and visualizing network infrastructure.",
     "license": "GPL",
     "license_version": "2.0",
@@ -3289,11 +3483,13 @@
     "github_last_update": "",
     "alternatives": "ArcGIS; GRASS; MapInfo",
     "notes": "Used by Colnodo at etnoterritorios.org.",
-    "types": "GIS, Mapping, Network Planning, Communications, Mesh Networking"
+    "types": "GIS, Mapping, Network Planning"
   },
   {
     "name": "Quiet",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Quiet syncs messages directly between team devices over Tor, with no server required. Unlike Slack, Discord, or Signal, it uses no central servers at all.",
     "license": "GPL",
     "license_version": "3.0",
@@ -3302,7 +3498,7 @@
     "website": "https://tryquiet.org/",
     "docs": "",
     "code": "https://github.com/TryQuiet/quiet",
-    "github_stars": 2659,
+    "github_stars": 2658,
     "github_last_update": "2026-10-19",
     "alternatives": "Cabal; Matrix; Session",
     "notes": "",
@@ -3350,7 +3546,9 @@
   },
   {
     "name": "RackTables",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "RackTables is an open-source tool for managing datacenter and server room assets. It allows you to document hardware assets, network addresses, rack space, and network configurations.",
     "license": "GPL",
     "license_version": "2.0",
@@ -3367,7 +3565,9 @@
   },
   {
     "name": "Radicle",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Radicle is a peer-to-peer code collaboration network built on Git, enabling decentralised software development without reliance on centralised hosting platforms like GitHub.",
     "license": "MIT",
     "license_version": "0.0",
@@ -3425,7 +3625,9 @@
   },
   {
     "name": "Reticulum",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Reticulum is a cryptography-based networking stack designed for reliable communication over high-latency, low-bandwidth radio links and other unreliable media, requiring no central infrastructure.",
     "license": "MIT",
     "license_version": "0.0",
@@ -3434,7 +3636,7 @@
     "website": "https://reticulum.network/",
     "docs": "https://markqvist.github.io/Reticulum/manual/",
     "code": "https://github.com/markqvist/Reticulum",
-    "github_stars": 7582,
+    "github_stars": 7589,
     "github_last_update": "2026-09-30",
     "alternatives": "LoRa mesh; Meshtastic",
     "notes": "Version 1.0.0 released recently.",
@@ -3442,7 +3644,9 @@
   },
   {
     "name": "RetroShare",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "RetroShare is a Friend-to-Friend secure communication and file sharing platform working on local networks and the internet. It is delay-tolerant and supports communities with intermittent connectivity.",
     "license": "GPL",
     "license_version": "2.0",
@@ -3459,7 +3663,9 @@
   },
   {
     "name": "Revolt",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Revolt is a free, open-source, GDPR-compliant chat platform designed as a privacy-first alternative to Discord, supporting text channels, bots, and fine-grained permissions without ads or trackers.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3495,7 +3701,9 @@
   },
   {
     "name": "RtBRICK",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "RtBRICK is an open-source network test tool for BNG.",
     "license": "Apache",
     "license_version": "2.0",
@@ -3512,7 +3720,9 @@
   },
   {
     "name": "Runtipi",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Runtipi is a homeserver manager providing one-click installation of self-hosted applications via a Docker-based app store with a simple, clean web interface.",
     "license": "GPL",
     "license_version": "3.0",
@@ -3521,15 +3731,17 @@
     "website": "https://runtipi.io/",
     "docs": "https://runtipi.io/docs/",
     "code": "https://github.com/runtipi/runtipi",
-    "github_stars": 9696,
-    "github_last_update": "2026-10-20",
+    "github_stars": 9697,
+    "github_last_update": "2026-10-22",
     "alternatives": "Umbrel; CasaOS; YunoHost",
     "notes": "",
     "types": "Self-Hosting, Server Management"
   },
   {
     "name": "SaltStack",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "SaltStack is an open-source automation and configuration management tool. It is designed for data center automation, cloud control, and IT orchestration.",
     "license": "Apache",
     "license_version": "2.0",
@@ -3565,7 +3777,9 @@
   },
   {
     "name": "Session",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Session is a decentralised, end-to-end encrypted messenger requiring no phone number or email to register. Messages are routed through a decentralised network of service nodes, with no metadata collection.",
     "license": "GPL",
     "license_version": "3.0",
@@ -3582,7 +3796,9 @@
   },
   {
     "name": "Sideband",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Sideband is an LXMF client for Android, Linux and macOS enabling communication over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, and other supported media.",
     "license": "MIT",
     "license_version": "0.0",
@@ -3599,7 +3815,9 @@
   },
   {
     "name": "Signal",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Signal is an end-to-end encrypted messaging app for private communications including text, voice, and video calls. Widely regarded as the gold standard for secure messaging.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3616,7 +3834,9 @@
   },
   {
     "name": "SimpleX Chat",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "SimpleX Chat has no user identifiers of any kind — no phone numbers, usernames, or keys linked to identity. Decentralised, with anyone able to run their own servers, and immune to spam.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3625,8 +3845,8 @@
     "website": "https://simplex.chat/",
     "docs": "https://simplex.chat/docs/guide/readme.html",
     "code": "https://github.com/simplex-chat/simplex-chat",
-    "github_stars": 19580,
-    "github_last_update": "2026-10-21",
+    "github_stars": 19581,
+    "github_last_update": "2026-10-22",
     "alternatives": "Session; Signal; Briar",
     "notes": "",
     "types": "Communications, Messaging, Privacy"
@@ -3671,7 +3891,9 @@
   },
   {
     "name": "Snipe-IT",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Snipe-IT is an open-source asset and license management software. It provides a user-friendly interface for tracking hardware and software assets, making it ideal for ISPs and IT departments.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -3680,8 +3902,8 @@
     "website": "https://snipeitapp.com",
     "docs": "https://snipe-it.readme.io/docs",
     "code": "https://github.com/snipe/snipe-it",
-    "github_stars": 15063,
-    "github_last_update": "2026-10-21",
+    "github_stars": 15066,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Asset Management, License Management"
@@ -3728,7 +3950,9 @@
   },
   {
     "name": "SonoBus",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "SonoBus is an application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network, useful for remote music collaboration.",
     "license": "GPL",
     "license_version": "3.0",
@@ -3737,11 +3961,11 @@
     "website": "https://www.sonobus.net/",
     "docs": "https://www.sonobus.net/sonobus_userguide.html",
     "code": "https://github.com/essej/sonobus",
-    "github_stars": 2213,
+    "github_stars": 2212,
     "github_last_update": "2026-09-04",
     "alternatives": "JamKazam; Jacktrip; Netjack",
     "notes": "",
-    "types": "Communications, Messaging, XMPPNaN"
+    "types": "Audio Streaming, Real-time, Communications"
   },
   {
     "name": "Splynx",
@@ -3806,7 +4030,9 @@
   },
   {
     "name": "Syncthing",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Syncthing is a continuous peer-to-peer file synchronisation tool that works without any central server or cloud storage. Files are synced directly between devices over local networks or the internet.",
     "license": "MPL",
     "license_version": "2.0",
@@ -3815,7 +4041,7 @@
     "website": "https://syncthing.net/",
     "docs": "https://docs.syncthing.net/",
     "code": "https://github.com/syncthing/syncthing",
-    "github_stars": 89593,
+    "github_stars": 89614,
     "github_last_update": "2026-10-21",
     "alternatives": "Resilio Sync; Nextcloud; git-annex",
     "notes": "Not available on iOS.",
@@ -3823,7 +4049,9 @@
   },
   {
     "name": "Tailscale",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Tailscale is a zero-config VPN built on WireGuard that creates secure peer-to-peer connections between devices. It simplifies remote network access without requiring complex firewall configurations.",
     "license": "Proprietary (free tier)",
     "license_version": "0.0",
@@ -3832,15 +4060,17 @@
     "website": "https://tailscale.com/",
     "docs": "https://tailscale.com/kb/",
     "code": "https://github.com/tailscale/tailscale",
-    "github_stars": 37875,
-    "github_last_update": "2026-10-21",
+    "github_stars": 37923,
+    "github_last_update": "2026-10-22",
     "alternatives": "ZeroTier; WireGuard; Nebula",
     "notes": "",
     "types": "VPN, Remote Access"
   },
   {
     "name": "Technitium DNS Server",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Technitium DNS Server is an open-source, self-hosted DNS server that supports both authoritative and recursive DNS services. It includes a user-friendly web interface for management.",
     "license": "GPL",
     "license_version": "3.0",
@@ -3849,7 +4079,7 @@
     "website": "https://technitium.com/dns",
     "docs": "https://technitium.com/docs/dns/",
     "code": "https://github.com/TechnitiumSoftware/DnsServer",
-    "github_stars": 10185,
+    "github_stars": 10196,
     "github_last_update": "2026-10-17",
     "alternatives": "",
     "notes": "",
@@ -3857,7 +4087,9 @@
   },
   {
     "name": "Tella",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Tella makes it easier and safer to document human rights violations and collect data in challenging environments with limited connectivity or in the face of repression.",
     "license": "Apache",
     "license_version": "2.0",
@@ -3874,7 +4106,9 @@
   },
   {
     "name": "Terrastories",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Terrastories is an open-source geostorytelling application enabling indigenous and local communities to map and record oral histories and place-based stories on an offline-capable map.",
     "license": "MIT",
     "license_version": "0.0",
@@ -3887,11 +4121,14 @@
     "github_last_update": "2025-11-25",
     "alternatives": "QGIS; MapBox; OpenStreetMap",
     "notes": "Part of the Earth Defenders Toolkit.",
-    "types": "Mesh Networking, Communications, IoT"
+    "types": "Mapping, Storytelling, Education"
   },
   {
     "name": "Tiki Wiki CMS Groupware",
-    "category": [],
+    "category": [
+      "Managing Community",
+      "Network Management"
+    ],
     "description": "Tiki Wiki is a full-featured, open-source wiki and content management system. It offers a wide range of features for collaboration, documentation, and knowledge management.",
     "license": "LGPL",
     "license_version": "2.1",
@@ -3927,7 +4164,9 @@
   },
   {
     "name": "Tox",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Tox is an instant messaging application designed for secure, decentralised communication without central servers.",
     "license": "GPL",
     "license_version": "3.0",
@@ -3955,8 +4194,8 @@
     "website": "https://github.com/twentyhq/twenty",
     "docs": "https://github.com/twentyhq/twenty",
     "code": "https://github.com/twentyhq/twenty",
-    "github_stars": 58910,
-    "github_last_update": "2026-10-21",
+    "github_stars": 59482,
+    "github_last_update": "2026-10-22",
     "alternatives": "Salesforce; HubSpot",
     "notes": "",
     "types": "CRM, Sales"
@@ -3984,7 +4223,9 @@
   },
   {
     "name": "Umbrel",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Umbrel is a personal server operating system providing a curated app store for self-hosted services, designed to be accessible to non-technical users.",
     "license": "PolyForm Noncommercial",
     "license_version": "0.0",
@@ -3993,7 +4234,7 @@
     "website": "https://umbrel.com/",
     "docs": "https://docs.umbrel.com/",
     "code": "https://github.com/getumbrel/umbrel",
-    "github_stars": 12425,
+    "github_stars": 12434,
     "github_last_update": "2026-09-22",
     "alternatives": "YunoHost; Cloudron; CasaOS",
     "notes": "",
@@ -4012,7 +4253,7 @@
     "website": "https://github.com/unpoller/unpoller",
     "docs": "https://github.com/unpoller/unpoller",
     "code": "https://github.com/unpoller/unpoller",
-    "github_stars": 2727,
+    "github_stars": 2728,
     "github_last_update": "2026-10-21",
     "alternatives": "UniFi API Browser; UniFi-Poller",
     "notes": "",
@@ -4039,7 +4280,9 @@
   },
   {
     "name": "Uptime Kuma",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Uptime Kuma is a self-hosted website monitoring tool similar to 'Uptime Robot.' It provides real-time monitoring of websites and services, with notifications for downtime.",
     "license": "MIT",
     "license_version": "0.0",
@@ -4048,8 +4291,8 @@
     "website": "https://github.com/louislam/uptime-kuma",
     "docs": "https://github.com/louislam/uptime-kuma/wiki",
     "code": "https://github.com/louislam/uptime-kuma",
-    "github_stars": 92717,
-    "github_last_update": "2026-10-21",
+    "github_stars": 92741,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Uptime Monitoring, Status Page"
@@ -4077,7 +4320,9 @@
   },
   {
     "name": "Vaultwarden",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Vaultwarden is a lightweight, open-source Bitwarden server API implementation written in Rust. It allows you to self-host your own password manager.",
     "license": "GPL",
     "license_version": "3.0",
@@ -4086,15 +4331,17 @@
     "website": "https://github.com/dani-garcia/vaultwarden",
     "docs": "https://github.com/dani-garcia/vaultwarden/wiki",
     "code": "https://github.com/dani-garcia/vaultwarden",
-    "github_stars": 69401,
-    "github_last_update": "2026-10-16",
+    "github_stars": 69452,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Password Manager, Self-Hosted"
   },
   {
     "name": "VideoCacheBox",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "VideoCacheBox is a caching solution for video content.",
     "license": "Proprietary",
     "license_version": "0.0",
@@ -4212,7 +4459,9 @@
   },
   {
     "name": "Webrecorder",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Webrecorder is an open-source toolkit for creating high-fidelity, interactive archives of websites, enabling communities to preserve web content for documentation and advocacy.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -4241,14 +4490,17 @@
     "docs": "http://weewx.com/docs.html",
     "code": "https://github.com/weewx/weewx",
     "github_stars": 1203,
-    "github_last_update": "2026-10-21",
+    "github_last_update": "2026-10-22",
     "alternatives": "FieldKit; PSLab; OpenWeatherMap",
     "notes": "",
     "types": "Router OS, Network Management, Firewall"
   },
   {
     "name": "Wiki.js",
-    "category": [],
+    "category": [
+      "Managing Community",
+      "Network Management"
+    ],
     "description": "Wiki.js is an open-source, modern wiki platform. It offers features for creating and managing documentation, making it suitable for ISPs and community networks.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -4257,15 +4509,17 @@
     "website": "https://wiki.js.org",
     "docs": "https://docs.requarks.io/",
     "code": "https://github.com/Requarks/wiki",
-    "github_stars": 29064,
-    "github_last_update": "2026-10-21",
+    "github_stars": 29068,
+    "github_last_update": "2026-10-22",
     "alternatives": "",
     "notes": "",
     "types": "Documentation, Knowledge Management"
   },
   {
     "name": "WireGuard",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "WireGuard is a modern, open-source VPN that uses state-of-the-art cryptography. It is designed to be faster, simpler, and more secure than traditional VPNs.",
     "license": "GPL",
     "license_version": "2.0",
@@ -4322,7 +4576,9 @@
   },
   {
     "name": "Yggdrasil",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "Yggdrasil is an early-stage implementation of a fully end-to-end encrypted IPv6 network, using a globally consistent distributed routing scheme that works across any network topology.",
     "license": "LGPL",
     "license_version": "3.0",
@@ -4331,7 +4587,7 @@
     "website": "https://yggdrasil-network.github.io/",
     "docs": "https://yggdrasil-network.github.io/configuration.html",
     "code": "https://github.com/yggdrasil-network/yggdrasil-go",
-    "github_stars": 5510,
+    "github_stars": 5511,
     "github_last_update": "2026-10-08",
     "alternatives": "ZeroTier; Cjdns; Nebula",
     "notes": "",
@@ -4339,7 +4595,9 @@
   },
   {
     "name": "YunoHost",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "YunoHost is a server operating system aimed at making self-hosting accessible to everyone. It simplifies installation and management of web applications on a personal server.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -4348,8 +4606,8 @@
     "website": "https://yunohost.org/",
     "docs": "https://yunohost.org/en/docs",
     "code": "https://github.com/YunoHost/yunohost",
-    "github_stars": 2981,
-    "github_last_update": "2026-10-20",
+    "github_stars": 2982,
+    "github_last_update": "2026-10-21",
     "alternatives": "Cloudron; Umbrel; CasaOS; FreedomBox",
     "notes": "Used extensively by community network groups.",
     "types": "Self-Hosting, Server Management"
@@ -4367,8 +4625,8 @@
     "website": "https://zabbix.com",
     "docs": "https://www.zabbix.com/documentation/current/en/manual",
     "code": "https://github.com/zabbix/zabbix",
-    "github_stars": 6490,
-    "github_last_update": "2026-10-21",
+    "github_stars": 6494,
+    "github_last_update": "2026-10-22",
     "alternatives": "Nagios; Icinga",
     "notes": "",
     "types": "Monitoring, Network Management"
@@ -4413,7 +4671,9 @@
   },
   {
     "name": "Zotero",
-    "category": [],
+    "category": [
+      "Managing Community"
+    ],
     "description": "Zotero is a free, open-source reference management tool that helps users collect, organise, cite, and share research. An alternative to Mendeley and EndNote.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -4422,7 +4682,7 @@
     "website": "https://www.zotero.org/",
     "docs": "https://www.zotero.org/support/",
     "code": "https://github.com/zotero/zotero",
-    "github_stars": 15692,
+    "github_stars": 15700,
     "github_last_update": "2026-10-15",
     "alternatives": "Mendeley; EndNote; Citavi",
     "notes": "",
@@ -4441,8 +4701,8 @@
     "website": "https://zulip.com/",
     "docs": "https://zulip.readthedocs.io/",
     "code": "https://github.com/zulip/zulip",
-    "github_stars": 26086,
-    "github_last_update": "2026-10-21",
+    "github_stars": 26092,
+    "github_last_update": "2026-10-22",
     "alternatives": "Mattermost; Rocket.Chat; Matrix/Element",
     "notes": "Used by Altermundi community network.",
     "types": "Communications, Team Chat"
@@ -4489,7 +4749,9 @@
   },
   {
     "name": "disaster.radio",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "disaster.radio is a disaster-resilient communications network using low-power solar-powered mesh nodes based on LoRa transceivers and ESP32 microcontrollers, providing off-grid connectivity.",
     "license": "GPL",
     "license_version": "3.0",
@@ -4506,7 +4768,9 @@
   },
   {
     "name": "dnsmasq",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "dnsmasq is a lightweight, open-source tool that provides DNS caching, a DHCP server, and TFTP support. It is commonly used in small networks and embedded systems.",
     "license": "GPL",
     "license_version": "2.0",
@@ -4544,7 +4808,9 @@
   },
   {
     "name": "iTop",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "iTop is an open-source IT service management tool that includes a Configuration Management Database (CMDB). It is designed for managing IT infrastructure and services.",
     "license": "AGPL",
     "license_version": "3.0",
@@ -4553,7 +4819,7 @@
     "website": "https://www.combodo.com/itop",
     "docs": "https://www.itophub.io/wiki/page?id=latest%3Astart",
     "code": "https://github.com/Combodo/iTop",
-    "github_stars": 1204,
+    "github_stars": 1205,
     "github_last_update": "2026-10-21",
     "alternatives": "",
     "notes": "",
@@ -4561,7 +4827,9 @@
   },
   {
     "name": "ndm (Network DNS Manager)",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "ndm greatly simplifies configuring and managing DNS and DHCP services for small home or business networks, runnable on a Raspberry Pi or any small Linux system.",
     "license": "MIT",
     "license_version": "0.0",
@@ -4574,7 +4842,7 @@
     "github_last_update": "2026-02-26",
     "alternatives": "Pi-hole; dnsmasq; Unbound",
     "notes": "",
-    "types": "Communications, Messaging, PrivacyNaN"
+    "types": "DNS, Network Management, Monitoring"
   },
   {
     "name": "osTicket",
@@ -4635,7 +4903,9 @@
   },
   {
     "name": "phpIPAM",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "phpIPAM is an open-source IP address management tool with PowerDNS integration. It provides a web-based interface for managing IP addresses, subnets, and DNS records.",
     "license": "GPL",
     "license_version": "3.0",
@@ -4671,7 +4941,9 @@
   },
   {
     "name": "sig0namectl",
-    "category": [],
+    "category": [
+      "Network Management"
+    ],
     "description": "sig0namectl promotes secure DNS usage and enables real-time decentralised DNS updates by both machines and people, developed by Adam Burns (former Pegasus Networks Technical Director).",
     "license": "Open Source",
     "license_version": "0.0",
